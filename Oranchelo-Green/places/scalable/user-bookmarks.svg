@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="48"
+   width="48"
+   viewBox="0 0 48 48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="folder-drag-accept.svg"
+   inkscape:export-filename="/home/silerio/.icons/oranchelo/apps/scalable/ristretto1.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4275">
+      <path
+         style="fill:#424242;fill-opacity:1;stroke:none"
+         d="m 63.727539,106.45411 0,26.70507 0,5.3418 0,16.02148 0,251.02344 40.578131,0 96.13672,0 100.43359,0 147.39648,0 0,-147.39648 0,-151.69531 -258.51171,0 -85.45508,0 -40.578131,0 z"
+         id="path4277"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <filter
+       id="filter7554"
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556"
+         inkscape:collect="always" />
+    </filter>
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5606">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5608" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="721"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="7.8306452"
+     inkscape:cx="26.362157"
+     inkscape:cy="31.925063"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer6"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Capa#1"
+     style="display:inline"
+     transform="translate(0,-464)">
+    <path
+       style="color:#000000;fill:#2a3b3f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.4000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 11.590807,464.84644 13.636711,0 13.636714,0 c 1.325391,0 2.392405,0.98287 2.392405,2.20373 l 0,43.37284 -16.029118,-14.85546 -16.029116,14.85546 0,-43.37284 c 0,-1.22086 1.067012,-2.20373 2.392404,-2.20373 z"
+       id="rect5260"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scsscccss" />
+    <path
+       sodipodi:type="star"
+       style="color:#000000;fill:#5bbe4c;fill-opacity:1;fill-rule:nonzero;stroke:#5bbe4c;stroke-width:2.37509799;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path5263"
+       sodipodi:sides="5"
+       sodipodi:cx="-38.467773"
+       sodipodi:cy="6.1008282"
+       sodipodi:r1="14.084475"
+       sodipodi:r2="6.732379"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.4137167"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -28.508546,16.060056 -8.906051,-3.309736 -7.447394,5.899867 0.395624,-9.4929228 -7.912478,-5.2597332 9.150561,-2.5572137 2.557213,-9.1505604 5.259734,7.91247771 9.492922,-0.39562413 -5.899866,7.44739382 z"
+       transform="matrix(0.77040639,0.12573535,-0.12573535,0.77040639,55.614459,481.75189)"
+       inkscape:transform-center-x="-0.015970113"
+       inkscape:transform-center-y="-1.0346645" />
+  </g>
+</svg>
