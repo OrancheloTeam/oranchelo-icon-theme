@@ -1,6 +1,6 @@
 Oranchelo Icon Theme
 ===============
-![Texte alternatif](http://oi67.tinypic.com/hwgv2x.jpg "Oranchelo Icon Theme")
+![Texte alternatif](http://oi63.tinypic.com/2145ef4.jpg "Oranchelo Icon Theme")
 
 Oranchelo is a flat-design icon theme for XFCE4 based on [Super Flat Remix](https://github.com/daniruiz/Super-Flat-Remix) and inspired by "Corny icons" by Patryk Goworowski. 
 
@@ -14,9 +14,14 @@ Oranchelo is a flat-design icon theme for XFCE4 based on [Super Flat Remix](http
 
 ###Getting the Source
 
-The source for Oranchelo Icon Theme can be found [here](http://zayronxio.deviantart.com/art/Oranchelo-icons-beta-v0-4-567346368).
+The source for Oranchelo Icon Theme can be found [here](http://zayronxio.deviantart.com/art/Oranchelo-icons-beta-v0-5-567346368).
 
 ###Changelog
+
+**v0.5.beta (06/11/2015)**
+
+- 32 new icons
+- New icons device by Luis vilches 
 
 **v0.4 (01/11/2015)**
 
