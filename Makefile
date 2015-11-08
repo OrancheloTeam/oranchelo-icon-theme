@@ -6,4 +6,4 @@ install:
 
 uninstall:
 	# Removing Oranchelo
-	-rm -rf $(INSTALLDIR)Oranchelo*
+	rm -rf $(INSTALLDIR)Oranchelo*
