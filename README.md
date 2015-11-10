@@ -6,13 +6,23 @@ Oranchelo is a flat-design icon theme for XFCE4 based on [Super Flat Remix](http
 
 ###Installation
 
-#####From terminal
+#####Ubuntu and derivatives
 
-    wget -O oranchelo.zip https://github.com/Madh93/oranchelo-icon-theme/archive/master.zip
-    unzip oranchelo.zip && cd oranchelo-icon-theme-master
+You can use the Oranchelo PPA:
+
+    sudo add-apt-repository ppa:oranchelo/oranchelo-icon-theme
+    sudo apt-get update
+    sudo apt-get install oranchelo-icon-theme
+
+or download equivalent .deb [here](https://www.dropbox.com/s/87nw9wgkuvxedgy/oranchelo-icon-theme_0.5~beta-1_all.deb?dl=0).
+
+#####From sources
+
+Clone or download repository and install it traditionally:
+
     sudo make install
 
-#####From interactive installer
+or using interactive installer:
 
     ./oranchelo-installer.sh
 
