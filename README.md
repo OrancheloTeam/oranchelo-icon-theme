@@ -8,13 +8,23 @@ Oranchelo is a flat-design icon theme for XFCE4 based on [Super Flat Remix](http
 
 #####Ubuntu and derivatives
 
-You can use the Oranchelo PPA:
+You can use the Oranchelo [PPA](https://launchpad.net/~oranchelo/+archive/ubuntu/oranchelo-icon-theme):
 
     sudo add-apt-repository ppa:oranchelo/oranchelo-icon-theme
     sudo apt-get update
     sudo apt-get install oranchelo-icon-theme
 
 or download equivalent .deb [here](https://www.dropbox.com/s/87nw9wgkuvxedgy/oranchelo-icon-theme_0.5~beta-1_all.deb?dl=0).
+
+#####Arch and derivatives
+
+You can install Oranchelo from [AUR](https://aur.archlinux.org/packages/oranchelo-icon-theme):
+
+    yaourt oranchelo-icon-theme
+
+#####Fedora and RPM-based
+
+You can download .rpm [here](https://www.dropbox.com/s/jqtwkouxn7x74dy/oranchelo-icon-theme-0.5-1.fc22.noarch.rpm?dl=0).
 
 #####From sources
 
@@ -36,19 +46,11 @@ Alternatively, click the Download ZIP button on the right area of this site. Lat
 
 The source for Oranchelo Icon Theme can be found [here](http://zayronxio.deviantart.com/art/Oranchelo-icons-beta-v0-5-567346368).
 
-###Changelog
+Packages sources:
 
-**v0.5.beta (06/11/2015)**
+- [Oranchelo-icon-theme-pkgbuild-arch](https://github.com/fjospinas/oranchelo-incon-theme-pkgbuild-arch)
+- [Oranchelo-icon-theme-spec-for-fedora](https://github.com/fjospinas/Oranchelo-icon-theme-spec-for-fedora)
 
-- 32 new icons
-- New icons device by Luis vilches 
+###Contributing
 
-**v0.4 (01/11/2015)**
-
-- 10 new icons
-
-**v0.3 (17/10/2015)**
-
-- 25 new icons
-- 2 redesigned icons
-- New icons for folders
+For any suggestion or request icons exists a [group in Facebook](https://www.facebook.com/groups/887649787956083/).
