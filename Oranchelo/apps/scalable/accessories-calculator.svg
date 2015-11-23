@@ -14,7 +14,7 @@
    id="svg4167"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="calculadora5.svg">
+   sodipodi:docname="accessories-calculator.svg">
   <defs
      id="defs4169" />
   <sodipodi:namedview
@@ -25,13 +25,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35000001"
-     inkscape:cx="194.56253"
+     inkscape:cx="200.27682"
      inkscape:cy="569.68951"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1360"
-     inkscape:window-height="717"
+     inkscape:window-height="721"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,7 +69,7 @@
        d="m 482.85834,769.38338 0,194.60678 c 0,25.95644 -20.89634,46.85274 -46.85278,46.85274 l -354.869816,0 c -25.956441,0 -46.852782,-20.8963 -46.852782,-46.85274 l 0,-194.60678 z"
        style="color:#000000;fill:#000000;fill-opacity:0.06532665;fill-rule:evenodd;stroke:none;stroke-width:40;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
-       style="color:#000000;fill:#5da3c3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:40;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#50a8d0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:40;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 482.85834,785.19221 0,194.60677 c 0,25.95642 -20.89634,46.85282 -46.85278,46.85282 l -354.869816,0 c -25.956441,0 -46.852782,-20.8964 -46.852782,-46.85282 l 0,-194.60677 z"
        id="rect4177"
        inkscape:connector-curvature="0"

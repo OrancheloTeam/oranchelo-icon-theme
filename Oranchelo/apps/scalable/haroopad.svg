@@ -17,7 +17,7 @@
    inkscape:export-filename="/home/silerio/Imágenes/iconos/fff.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="habo.svg">
+   sodipodi:docname="haroopad.svg">
   <defs
      id="defs4">
     <clipPath
@@ -86,14 +86,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="362.04066"
-     inkscape:cy="145.60765"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="571.34031"
+     inkscape:cy="107.86786"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1360"
-     inkscape:window-height="717"
+     inkscape:window-height="721"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1" />
@@ -105,7 +105,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -197,7 +197,7 @@
          sodipodi:nodetypes="ccccc" />
     </g>
     <path
-       style="fill:#ffffff;fill-opacity:0.16190479;stroke:none"
+       style="fill:#ffffff;fill-opacity:0.26499999;stroke:none"
        d="M 180,210 -22,410 50,93.999999 z"
        id="path3786"
        inkscape:connector-curvature="0"
@@ -208,7 +208,7 @@
        inkscape:connector-curvature="0"
        id="path3788"
        d="m 464,744.36218 -128,118 c -91.50467,-82.5419 -5.37717,-156.20219 -2,-234 z"
-       style="fill:#ffffff;fill-opacity:0.16190479;stroke:none"
+       style="fill:#ffffff;fill-opacity:0.26499999;stroke:none"
        sodipodi:nodetypes="cccc"
        clip-path="url(#clipPath3792)" />
   </g>

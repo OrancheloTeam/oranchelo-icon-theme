@@ -15,7 +15,7 @@
    inkscape:version="0.48.4 r9939"
    width="512"
    height="512"
-   sodipodi:docname="camara10.svg"
+   sodipodi:docname="accessories-camera.svg"
    viewBox="0 0 512 512"
    inkscape:export-filename="/home/silerio/Imágenes/CANARA0.png"
    inkscape:export-xdpi="90"
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -250,9 +250,9 @@
      inkscape:window-height="717"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.32243251"
-     inkscape:cx="554.18631"
-     inkscape:cy="-65.806237"
+     inkscape:zoom="0.91197686"
+     inkscape:cx="272.23888"
+     inkscape:cy="256.51691"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -269,10 +269,6 @@
   <g
      id="g3851"
      transform="translate(-188.82406,1.1047704)" />
-  <path
-     style="color:#000000;fill:#ffffff;fill-opacity:0.215;fill-rule:evenodd;stroke:none;stroke-width:33.52099991000000045;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="M 195.1875 99 L 153.28125 140.90625 L 137.40625 140.90625 C 135.72512 132.5653 128.38205 126.34375 119.53125 126.34375 L 84.875 126.34375 C 75.354842 126.34375 67.612306 133.58752 66.75 142.875 C 40.42709 149.66993 21.0625 173.4649 21.0625 201.96875 L 21.0625 210.5 C 21.0625 181.99615 40.42709 158.20118 66.75 151.40625 C 67.612306 142.11877 75.354842 134.84375 84.875 134.84375 L 119.53125 134.84375 C 128.38205 134.84375 135.72512 141.09655 137.40625 149.4375 L 153.28125 149.4375 L 195.1875 107.53125 L 322.84375 107.53125 L 364.71875 149.4375 L 435.90625 149.4375 C 469.7367 149.4375 496.96875 176.66954 496.96875 210.5 L 496.96875 201.96875 C 496.96875 168.13829 469.7367 140.90625 435.90625 140.90625 L 364.71875 140.90625 L 322.84375 99 L 195.1875 99 z "
-     id="path4094" />
   <rect
      style="color:#000000;fill:#c6c3c3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:19.79999924;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="rect3809"
