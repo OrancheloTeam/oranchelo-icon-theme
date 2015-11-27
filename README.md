@@ -24,7 +24,7 @@ You can install Oranchelo from [AUR](https://aur.archlinux.org/packages/oranchel
 
 #####Fedora and RPM-based
 
-You can download .rpm [here](https://www.dropbox.com/s/jqtwkouxn7x74dy/oranchelo-icon-theme-0.5-1.fc22.noarch.rpm?dl=0).
+You can download .rpm [here](https://www.dropbox.com/s/9lj6o9ex8sloixb/oranchelo-icon-theme-0.6-1.fc23.noarch.rpm?dl=0).
 
 #####From sources
 
