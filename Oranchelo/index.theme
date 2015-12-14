@@ -2,7 +2,7 @@
 Name=Oranchelo
 Comment=An icon theme for xfce4, the set is inspired by "super flat remix" and the latest flat design trend.
 Directories=panel/22,actions/scalable,actions/16,actions/symbolic,apps/scalable,apps/symbolic,categories/scalable,categories/small,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,emotes,mimetypes/scalable,mimetypes/symbolic,places/scalable,places/symbolic,status
-Inherits=Super Flat Remix
+Inherits=Numix-Circle 
 
 [actions/scalable]
 Context=Actions
