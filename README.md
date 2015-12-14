@@ -14,7 +14,7 @@ You can use the Oranchelo [PPA](https://launchpad.net/~oranchelo/+archive/ubuntu
     sudo apt-get update
     sudo apt-get install oranchelo-icon-theme
 
-or download equivalent .deb [here](https://www.dropbox.com/s/bygac1g5fkzigmq/oranchelo-icon-theme_0.6~ubuntu14.04.1_all.deb?dl=0).
+or download equivalent .deb [here](https://www.dropbox.com/s/p1bx4k81f4ukcve/oranchelo-icon-theme_0.6.8~ubuntu14.04.1_all.deb?dl=0).
 
 #####Arch and derivatives
 
@@ -24,7 +24,7 @@ You can install Oranchelo from [AUR](https://aur.archlinux.org/packages/oranchel
 
 #####Fedora and RPM-based
 
-You can download .rpm [here](https://www.dropbox.com/s/9lj6o9ex8sloixb/oranchelo-icon-theme-0.6-1.fc23.noarch.rpm?dl=0).
+You can download .rpm [here](https://www.dropbox.com/s/j008e24jonq20hm/oranchelo-icon-theme-0.6.8-1.fc23.noarch.rpm?dl=0).
 
 #####From sources
 
