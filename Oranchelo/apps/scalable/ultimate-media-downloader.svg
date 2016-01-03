@@ -15,7 +15,7 @@
    inkscape:version="0.48.4 r9939"
    width="512"
    height="512"
-   sodipodi:docname="iceweasel2.svg"
+   sodipodi:docname="ultimate-media-downloader.svg"
    inkscape:export-filename="/home/silerio/Imágenes/iconos/iceware.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -32,8 +32,8 @@
      inkscape:window-height="721"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="162.52919"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="168.18604"
      inkscape:cy="119.06436"
      inkscape:window-x="0"
      inkscape:window-y="25"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -274,7 +274,7 @@
   </defs>
   <path
      sodipodi:type="arc"
-     style="fill:#5bc0f5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     style="fill:#50b2f6;fill-opacity:1;fill-rule:evenodd;stroke:none"
      id="path2995"
      sodipodi:cx="175.42319"
      sodipodi:cy="93.614182"
@@ -299,7 +299,7 @@
      transform="translate(6,-6)" />
   <path
      sodipodi:type="arc"
-     style="fill:#bcef86;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     style="fill:#a7d48e;fill-opacity:1;fill-rule:evenodd;stroke:none"
      id="path3025"
      sodipodi:cx="360.62445"
      sodipodi:cy="420.07611"
@@ -316,7 +316,7 @@
      clip-path="url(#clipPath3981)"
      transform="translate(6,-6)" />
   <path
-     style="color:#000000;fill:#58bcee;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:35.59999847;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#1d9cf3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:35.59999847000000273;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="m 129.85605,319.74508 c -7.28579,0 -13.14437,5.87223 -13.14437,13.15802 l 0,38.85982 -22.644345,0 c -2.7354,4.4e-4 -5.41298,1.63337 -6.6609,4.06752 -1.24793,2.43415 -1.00935,5.55882 0.58692,7.78015 l 52.290835,54.2573 c 1.37938,1.91797 3.71149,3.11206 6.07397,3.11206 2.36249,0 4.6946,-1.19409 6.07398,-3.11206 l 52.29083,-54.2573 c 1.59627,-2.22133 1.83485,-5.346 0.58693,-7.78015 -1.24792,-2.43415 -3.92551,-4.06691 -6.6609,-4.06752 l -22.64435,0 0,-38.85982 c 0,-7.28579 -5.85858,-13.15802 -13.14437,-13.15802 z"
      id="rect3957"
      inkscape:connector-curvature="0"
