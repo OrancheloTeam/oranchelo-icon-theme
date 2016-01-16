@@ -18,9 +18,9 @@ or download equivalent .deb [here](https://www.dropbox.com/s/79b4iwwbwpl7bkr/ora
 
 #####Arch and derivatives
 
-You can install Oranchelo from [AUR](https://aur.archlinux.org/packages/oranchelo-icon-theme):
+You can install Oranchelo from [AUR](https://aur.archlinux.org/packages/oranchelo-icon-theme-git):
 
-    yaourt oranchelo-icon-theme
+    yaourt oranchelo-icon-theme-git
 
 #####Fedora and RPM-based
 
