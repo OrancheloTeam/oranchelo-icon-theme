@@ -39,89 +39,69 @@ replace() {
 
 install() {
 
+  # PREVIEW
+
+  # Show destination directory
+  echo -e "\nOranchelo Icon Theme will be installed in:\n"
+  show_dir "\t$DEST_DIR"
   if [ "$UID" -eq "$ROOT_UID" ]; then
-
-    echo -e "\nOranchelo Icon Theme will be installed in:\n"
-    show_dir "\t$ROOT_DIR"
     echo -e "\nIt will be available to all users."
-    continue
-
-    if [[ -d $ROOT_DIR/Oranchelo && -d $ROOT_DIR/Oranchelo-Green ]]; then
-      replace $ROOT_DIR
-    fi
-
-    echo -e "\nInstalling Oranchelo..."
-    cp -rf Oranchelo* $ROOT_DIR
-    chmod -R 755 $ROOT_DIR/Oranchelo $ROOT_DIR/Oranchelo-Green
-    echo "Installation complete!"
-    echo "Do not forget you have to set icon theme."
-    end
-
-  elif [ "$UID" -ne "$ROOT_UID" ]; then
-
-    echo -e "\nOranchelo Icon Theme will be installed in:\n"
-    show_dir "\t$USER_DIR"
+  else
     echo -e "\nTo make them available to all users, run this script as root."
-    continue
-
-    if [[ -d $USER_DIR/Oranchelo && -d $USER_DIR/Oranchelo-Green ]]; then
-      replace $USER_DIR
-    fi
-    
-    echo -e "\nInstalling Oranchelo..."
-    if [ -d $USER_DIR ]; then
-      cp -rf Oranchelo* $USER_DIR
-    else
-      mkdir -p $USER_DIR
-      cp -rf Orachelo* $USER_DIR
-    fi
-    echo "Installation complete!"
-    echo "Do not forget you have to set icon theme."
-    end
   fi
+
+  continue
+
+  # INSTALL
+
+  # Check destination directory
+  if [ ! -d $DEST_DIR ]; then
+    mkdir -p $DEST_DIR
+  elif [[ -d $DEST_DIR/Oranchelo && -d $DEST_DIR/Oranchelo-Green ]]; then
+    replace $DEST_DIR
+  fi
+
+  echo -e "\nInstalling Oranchelo..."
+  
+  # Copying files
+  cp -rf Oranchelo* $DEST_DIR
+  chmod -R 755 $DEST_DIR/Oranchelo $DEST_DIR/Oranchelo-Green
+
+  echo "Installation complete!"
+  echo "Do not forget you have to set icon theme."
 }
 
 remove() {
 
-  if [ "$UID" -eq "$ROOT_UID" ]; then
+  # PREVIEW
 
-    if [[ -d $ROOT_DIR/Oranchelo && -d $ROOT_DIR/Oranchelo-Green ]]; then
-      echo -e "\nOranchelo Icon Theme installed in:\n"
-      show_dir "\t$ROOT_DIR"
+  # Show installation directory
+  if [[ -d $DEST_DIR/Oranchelo && -d $DEST_DIR/Oranchelo-Green ]]; then
+    echo -e "\nOranchelo Icon Theme installed in:\n"
+    show_dir "\t$DEST_DIR"
+    if [ "$UID" -eq "$ROOT_UID" ]; then
       echo -e "\nIt will remove for all users."
-      continue
     else
-      show_error "\nOranchelo Icon Theme is not installed in:\n"
-      show_dir "\t$ROOT_DIR\n"
-      end
-    fi
-
-    echo -e "\nRemoving Oranchelo..."
-    rm -rf $ROOT_DIR/Oranchelo*
-    echo "Removing complete!"
-    echo "I hope to see you soon."
-    end
-
-  elif [ "$UID" -ne "$ROOT_UID" ]; then
-
-    if [[ -d $USER_DIR/Oranchelo && -d $USER_DIR/Oranchelo-Green ]]; then
-      echo -e "\nOranchelo Icon Theme installed in:\n"
-      show_dir "\t$USER_DIR"
       echo -e "\nIt will remove only for current user."
-      continue
-    else
-      show_error "\nOranchelo Icon Theme is not installed in:\n"
-      show_dir "\t$USER_DIR\n"
-      end
     fi
 
-    echo -e "\nRemoving Oranchelo..."
-    rm -rf $USER_DIR/Oranchelo*
-    echo "Removing complete!"
-    echo "I hope to see you soon."
+    continue
+  
+  else
+    show_error "\nOranchelo Icon Theme is not installed in:\n"
+    show_dir "\t$DEST_DIR\n"
     end
-  fi  
+  fi
 
+  # REMOVE
+
+  echo -e "\nRemoving Oranchelo..."
+
+  # Removing files
+  rm -rf $DEST_DIR/Oranchelo*
+
+  echo "Removing complete!"
+  echo "I hope to see you soon."
 }
 
 main() {
@@ -134,10 +114,15 @@ main() {
   esac
 }
 
-
 ROOT_UID=0
-ROOT_DIR="/usr/share/icons"
-USER_DIR="$HOME/.local/share/icons"
+DEST_DIR=
+
+# Destination directory
+if [ "$UID" -eq "$ROOT_UID" ]; then
+  DEST_DIR="/usr/share/icons"
+else
+  DEST_DIR="$HOME/.local/share/icons"
+fi
 
 echo -e "\e[1m\n+---------------------------------------------+"
 echo -e "|    Oranchelo Icon Theme Installer Script    |"
