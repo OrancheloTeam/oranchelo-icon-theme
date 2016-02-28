@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="playonlinux.svg">
+   sodipodi:docname="amazon.svg">
   <defs
      id="defs4">
     <clipPath
@@ -303,7 +303,7 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1360"
-     inkscape:window-height="721"
+     inkscape:window-height="719"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1" />
@@ -315,7 +315,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -342,9 +342,9 @@
        inkscape:label="Capa 1"
        id="g3823"
        transform="matrix(0.69593207,0,0,0.69614771,116.63381,124.9228)"
-       style="fill:#1cc447;fill-opacity:1">
+       style="fill:#f7d95e;fill-opacity:1">
       <path
-         style="color:#000000;fill:#1cc447;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#f7d95e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 167.98141,661.40578 c -16.30492,0 -29.49816,13.19413 -29.49816,29.49961 2.49945,19.58548 -4.02321,20.6274 -19.89952,29.96347 -16.55194,11.95577 -19.40432,11.99794 -35.819182,2.34302 -14.12047,-8.15325 -32.114855,-3.35202 -40.26731,10.76986 l -12.173837,21.06968 c -8.152454,14.11982 -3.351303,32.11415 10.769163,40.26637 18.087387,7.49808 15.503042,14.06017 15.685521,32.30958 2.064069,20.35793 0.983193,22.99202 -15.685521,32.30546 -14.120466,8.15326 -18.921617,25.67858 -10.769163,39.80045 l 12.173837,21.06866 c 8.152455,14.12084 26.14684,18.92207 40.26731,10.76985 15.876482,-11.73463 19.946652,-6.52815 35.819182,2.80998 18.03621,8.44637 19.89952,10.93134 19.89952,29.49752 0,16.3045 13.19324,29.4986 29.49816,29.4986 l 24.34767,0 c 16.30491,0 29.49814,-13.1941 29.49814,-29.4986 -2.51109,-19.28104 4.35258,-20.40423 19.89955,-29.73203 16.53894,-12.13267 19.32424,-12.2777 35.81917,-2.57547 14.12046,8.15222 32.11485,3.35099 40.26731,-10.76985 l 12.17384,-21.06866 c 8.15244,-14.12187 3.3513,-31.64719 -10.76917,-39.80045 -18.08782,-7.49601 -15.50306,-14.0581 -15.6856,-32.30546 -2.06435,-20.35998 -0.98276,-22.99408 15.68544,-32.30958 14.12048,-8.15222 18.92163,-26.14655 10.76917,-40.26637 l -12.17384,-21.06968 c -8.15245,-14.12188 -26.14685,-18.92311 -40.2673,-10.76986 -15.84972,12.20673 -19.74448,7.1134 -35.81917,-2.34302 -18.2917,-8.52455 -19.89954,-11.15247 -19.89954,-29.96347 0,-16.30548 -13.19324,-29.49961 -29.49814,-29.49961 z"
          id="path3825"
          inkscape:connector-curvature="0"
