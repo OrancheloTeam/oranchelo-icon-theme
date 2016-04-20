@@ -14,7 +14,7 @@ You can use the Oranchelo [PPA](https://launchpad.net/~oranchelo/+archive/ubuntu
     sudo apt-get update
     sudo apt-get install oranchelo-icon-theme
 
-or download equivalent .deb [here](https://www.dropbox.com/s/guf3r0l2rbiqo9s/oranchelo-icon-theme_0.7.2~ubuntu14.04.1_all.deb?dl=0).
+or download equivalent .deb for [14.04 Trusty Tahr](https://www.dropbox.com/s/guf3r0l2rbiqo9s/oranchelo-icon-theme_0.7.2~ubuntu14.04.1_all.deb?dl=0) or [16.04 Xenial Xerus](https://www.dropbox.com/s/xm09qg348o67zzf/oranchelo-icon-theme_0.7.2~ubuntu16.04.1_all.deb?dl=0).
 
 #####Arch and derivatives
 
