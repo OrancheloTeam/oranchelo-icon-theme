@@ -14,7 +14,7 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="gmusicbrowser.svg">
   <defs
      id="defs4">
@@ -3390,16 +3390,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="328.87368"
-     inkscape:cy="267.57899"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="327.00494"
+     inkscape:cy="169.83034"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1360"
-     inkscape:window-height="721"
+     inkscape:window-height="717"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1" />
@@ -3411,7 +3411,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3436,11 +3436,11 @@
        sodipodi:cy="239.36"
        sodipodi:rx="157.44"
        sodipodi:ry="157.44"
-       d="m -378.88,239.36 c 0,86.95171 -70.48829,157.44 -157.44001,157.44 -86.95171,0 -157.44,-70.48829 -157.44,-157.44 0,-86.95171 70.48829,-157.440002 157.44,-157.440002 86.95172,0 157.44001,70.488292 157.44001,157.440002 z"
+       d="m -378.88,239.36 a 157.44,157.44 0 0 1 -157.44001,157.44 157.44,157.44 0 0 1 -157.44,-157.44 157.44,157.44 0 0 1 157.44,-157.440002 A 157.44,157.44 0 0 1 -378.88,239.36 Z"
        transform="matrix(1.2140066,0,0,1.2510145,887.43129,504.59658)" />
     <path
        transform="matrix(0.54284848,0,0,0.55939673,527.47583,670.1422)"
-       d="m -378.88,239.36 c 0,86.95171 -70.48829,157.44 -157.44001,157.44 -86.95171,0 -157.44,-70.48829 -157.44,-157.44 0,-86.95171 70.48829,-157.440002 157.44,-157.440002 86.95172,0 157.44001,70.488292 157.44001,157.440002 z"
+       d="m -378.88,239.36 a 157.44,157.44 0 0 1 -157.44001,157.44 157.44,157.44 0 0 1 -157.44,-157.44 157.44,157.44 0 0 1 157.44,-157.440002 A 157.44,157.44 0 0 1 -378.88,239.36 Z"
        sodipodi:ry="157.44"
        sodipodi:rx="157.44"
        sodipodi:cy="239.36"
@@ -3464,7 +3464,7 @@
        sodipodi:cy="245.75999"
        sodipodi:rx="30.719999"
        sodipodi:ry="30.719999"
-       d="m -760.31998,245.75999 c 0,16.96619 -13.75381,30.72 -30.72,30.72 -16.96619,0 -30.72,-13.75381 -30.72,-30.72 0,-16.96618 13.75381,-30.71999 30.72,-30.71999 16.96619,0 30.72,13.75381 30.72,30.71999 z"
+       d="m -760.31998,245.75999 a 30.719999,30.719999 0 0 1 -30.72,30.72 30.719999,30.719999 0 0 1 -30.72,-30.72 30.719999,30.719999 0 0 1 30.72,-30.71999 30.719999,30.719999 0 0 1 30.72,30.71999 z"
        transform="matrix(1.2140066,0,0,1.2510145,1196.6631,496.5901)" />
     <path
        style="fill:#ffffff;fill-opacity:0.05940594;stroke:none"
