@@ -22,11 +22,11 @@ You can install Oranchelo from [AUR](https://aur.archlinux.org/packages/oranchel
 
     yaourt oranchelo-icon-theme-git
 
-#####Fedora and RPM-based
+##### Fedora and RPM-based
 
-You can download .rpm [here](https://github.com/OrancheloTeam/oranchelo-icon-theme/releases/download/v0.7.4/oranchelo-icon-theme-0.7.4-1.fc23.noarch.rpm).
+You can download .rpm for [Fedora 23](https://github.com/OrancheloTeam/oranchelo-icon-theme/releases/download/v0.7.4/oranchelo-icon-theme-0.7.4-1.fc23.noarch.rpm) or [Fedora 24](https://github.com/OrancheloTeam/oranchelo-icon-theme/releases/download/v0.7.4/oranchelo-icon-theme-0.7.4-1.fc24.noarch.rpm).
 
-#####From sources
+##### From sources
 
 Clone or download repository and install it traditionally:
 
@@ -38,11 +38,11 @@ or using interactive installer:
 
 Do not forget set the execution permissions for script installer!
 
-#####Manual installation
+##### Manual installation
 
 Alternatively, click the Download ZIP button on the right area of this site. Later move the directories Oranchelo and Oranchelo-Green to `/usr/share/icons` or `~.local/share/icons`
 
-###Getting the Source
+### Getting the Source
 
 The source for Oranchelo Icon Theme can be found [here](http://zayronxio.deviantart.com/art/Oranchelo-icons-beta-v0-7-4-567346368).
 
@@ -51,12 +51,12 @@ Packages sources:
 - [Oranchelo-icon-theme-pkgbuild-arch](https://github.com/fjospinas/oranchelo-incon-theme-pkgbuild-arch)
 - [Oranchelo-icon-theme-spec-for-fedora](https://github.com/fjospinas/Oranchelo-icon-theme-spec-for-fedora)
 
-###Contributing
+### Contributing
 
 For any suggestion or request icons exists a [group in Facebook](https://www.facebook.com/groups/887649787956083/).
 
-###Inspired projects
+### Inspired projects
 
-#####Simplex Icons
+##### Simplex Icons
 
 [Fork](http://dannexreloadex.deviantart.com/art/Simplex-icons-v0-2-beta-597696153) from Simple Icons by Camilo Higuita and inspired by Oranchelo Icon Theme by Zayronxio.
