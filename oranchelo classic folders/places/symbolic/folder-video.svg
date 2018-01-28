@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16px"
+   height="16px"
+   id="svg2990"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="folder-video.svg">
+  <defs
+     id="defs2992" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.098901"
+     inkscape:cx="2.0978971"
+     inkscape:cy="7.3693051"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1360"
+     inkscape:window-height="717"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2995">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#711367;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.46238583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 5.1699219 2.1582031 C 3.5053661 2.1582031 2.1386719 3.5478476 2.1386719 5.2402344 C 2.1386719 6.0974809 2.4945632 6.8664607 3.0585938 7.4199219 C 2.5745295 7.4416445 2.1816406 7.8370754 2.1816406 8.3261719 L 2.1816406 8.3730469 L 0.99023438 8.3730469 C 0.76352349 8.3730469 0.58203125 8.5564922 0.58203125 8.7832031 L 0.58203125 11.011719 C 0.58203125 11.23843 0.76352349 11.421875 0.99023438 11.421875 L 2.1816406 11.421875 L 2.1816406 13.427734 C 2.1816406 13.930638 2.5947528 14.341797 3.0976562 14.341797 L 12.056641 14.341797 C 12.559544 14.341797 12.972656 13.930638 12.972656 13.427734 L 12.972656 12.945312 L 15.046875 14.269531 C 15.155728 14.339211 15.293479 14.323106 15.384766 14.228516 C 15.439596 14.171976 15.471836 14.093549 15.472656 14.011719 L 15.537109 7.6777344 C 15.539109 7.4442634 15.307832 7.2958801 15.119141 7.4101562 L 12.972656 8.7128906 L 12.972656 8.3261719 C 12.972656 7.8599111 12.612694 7.4875721 12.160156 7.4335938 C 12.728898 6.8769191 13.087891 6.1003155 13.087891 5.2402344 C 13.087891 3.5621499 11.748539 2.1582031 10.083984 2.1582031 C 9.0395928 2.1582031 8.1737136 2.7477021 7.6269531 3.5742188 C 7.0888042 2.7433492 6.2171501 2.1582031 5.1699219 2.1582031 z M 5.1699219 3.9902344 C 5.8422028 3.9902344 6.3710938 4.5423503 6.3710938 5.2402344 C 6.3710938 5.9381186 5.8562936 6.4609375 5.1699219 6.4609375 C 4.4835502 6.4609375 3.9394531 5.9237274 3.9394531 5.2402344 C 3.9394531 4.5567415 4.4976411 3.9902344 5.1699219 3.9902344 z M 10.083984 3.9902344 C 10.756264 3.9902344 11.285156 4.5423503 11.285156 5.2402344 C 11.285156 5.9381186 10.770355 6.4609375 10.083984 6.4609375 C 9.3976122 6.4609375 8.8554688 5.9237274 8.8554688 5.2402344 C 8.8554688 4.5567415 9.4117031 3.9902344 10.083984 3.9902344 z "
+       id="rect4011" />
+  </g>
+</svg>
