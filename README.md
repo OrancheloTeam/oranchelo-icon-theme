@@ -14,7 +14,7 @@ You can use the Oranchelo [PPA](https://launchpad.net/~oranchelo/+archive/ubuntu
     sudo apt-get update
     sudo apt-get install oranchelo-icon-theme
 
-or download equivalent .deb for [14.04 Trusty Tahr](https://github.com/OrancheloTeam/oranchelo-icon-theme/releases/download/v0.7.4/oranchelo-icon-theme_0.7.4.ubuntu14.04.1_all.deb) or [16.04 Xenial Xerus](https://github.com/OrancheloTeam/oranchelo-icon-theme/releases/download/v0.7.4/oranchelo-icon-theme_0.7.4.ubuntu16.04.1_all.deb).
+or download equivalent .deb for [14.04 Trusty Tahr](https://github.com/OrancheloTeam/oranchelo-icon-theme/releases/download/v0.7.4.4/oranchelo-icon-theme_0.7.4.4.ubuntu14.04.1_all.deb) or [16.04 Xenial Xerus](https://github.com/OrancheloTeam/oranchelo-icon-theme/releases/download/v0.7.4.4/oranchelo-icon-theme_0.7.4.4.ubuntu16.04.1_all.deb).
 
 ##### Arch and derivatives
 
@@ -24,7 +24,7 @@ You can install Oranchelo from [AUR](https://aur.archlinux.org/packages/oranchel
 
 ##### Fedora and RPM-based
 
-You can download .rpm for [Fedora 24](https://github.com/OrancheloTeam/oranchelo-icon-theme/releases/download/v0.7.4/oranchelo-icon-theme-0.7.4-1.fc24.noarch.rpm) or [Fedora 25](https://github.com/OrancheloTeam/oranchelo-icon-theme/releases/download/v0.7.4/oranchelo-icon-theme-0.7.4-1.fc25.noarch.rpm).
+You can download .rpm for [Fedora 24](https://github.com/OrancheloTeam/oranchelo-icon-theme/releases/download/v0.7.4.4/oranchelo-icon-theme-0.7.4.4-1.fc26.noarch.rpm) or [Fedora 25](https://github.com/OrancheloTeam/oranchelo-icon-theme/releases/download/v0.7.4.4/oranchelo-icon-theme-0.7.4.4-1.fc27.noarch.rpm).
 
 ##### From sources
 
@@ -44,7 +44,7 @@ Alternatively, click the Download ZIP button on the right area of this site. Lat
 
 ### Getting the Source
 
-The source for Oranchelo Icon Theme can be found [here](http://zayronxio.deviantart.com/art/Oranchelo-icons-beta-v0-7-4-567346368).
+The source for Oranchelo Icon Theme can be found [here](https://www.opendesktop.org/p/1015801/).
 
 Packages sources:
 
