@@ -14,8 +14,8 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="totem.svg">
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="org.gnome.Totem.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,13 +24,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="92.773728"
-     inkscape:cy="142.48774"
+     inkscape:cx="-84.563497"
+     inkscape:cy="118.10679"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1360"
-     inkscape:window-height="719"
+     inkscape:window-height="717"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1" />
@@ -121,7 +121,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -139,7 +139,7 @@
        y="867.90753"
        ry="0" />
     <rect
-       style="color:#000000;fill:#16b3eb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.55799961;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#6f8a91;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.55799961;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3015"
        width="446.3053"
        height="275.83185"
