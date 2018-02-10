@@ -15,7 +15,7 @@
    id="svg3613"
    version="1.1"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="libreoffice-writer.svg">
+   sodipodi:docname="libreoffice3-writer.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,15 +24,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.88737246"
-     inkscape:cx="312.04879"
-     inkscape:cy="274.20921"
+     inkscape:cx="339.81194"
+     inkscape:cy="205.06307"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1360"
-     inkscape:window-height="717"
+     inkscape:window-height="716"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -1269,21 +1269,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient1061"
        id="linearGradient1063"
-       x1="-14.315362"
-       y1="390.52988"
+       x1="-65.026878"
+       y1="320.66068"
        x2="481.53052"
        y2="877.36041"
-       gradientUnits="userSpaceOnUse" />
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1067">
-      <path
-         sodipodi:nodetypes="sssssssss"
-         inkscape:connector-curvature="0"
-         id="path1069"
-         d="m 137.60639,525.36627 h 314.32794 c 22.95578,0 41.43643,18.48065 41.43643,41.43644 V 933.3558 c 0,22.95579 -18.48065,41.43644 -41.43643,41.43644 H 137.60639 c -22.95579,0 -41.436435,-18.48065 -41.436435,-41.43644 V 566.80271 c 0,-22.95579 18.480645,-41.43644 41.436435,-41.43644 z"
-         style="fill:#6b41a2;fill-opacity:1" />
-    </clipPath>
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-13.840698,8.0735136)" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1061"
@@ -1423,6 +1414,16 @@
          y="511.8432"
          ry="41.436436" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1075">
+      <path
+         sodipodi:nodetypes="sssssssss"
+         inkscape:connector-curvature="0"
+         id="path1077"
+         d="m 137.60639,505.08167 h 314.32794 c 22.95578,0 41.43643,18.48065 41.43643,41.43644 v 393.59923 c 0,22.95579 -18.48065,41.43644 -41.43643,41.43644 H 137.60639 c -22.95579,0 -41.436435,-18.48065 -41.436435,-41.43644 V 546.51811 c 0,-22.95579 18.480645,-41.43644 41.436435,-41.43644 z"
+         style="fill:#427dd5;fill-opacity:1" />
+    </clipPath>
   </defs>
   <metadata
      id="metadata3618">
@@ -1432,7 +1433,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1442,7 +1443,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <path
-       style="fill:#414ea2;fill-opacity:1"
+       style="fill:#427dd5;fill-opacity:1"
        d="m 137.60639,505.08167 h 314.32794 c 22.95578,0 41.43643,18.48065 41.43643,41.43644 v 393.59923 c 0,22.95579 -18.48065,41.43644 -41.43643,41.43644 H 137.60639 c -22.95579,0 -41.436435,-18.48065 -41.436435,-41.43644 V 546.51811 c 0,-22.95579 18.480645,-41.43644 41.436435,-41.43644 z"
        id="rect5617"
        inkscape:connector-curvature="0"
@@ -1455,21 +1456,20 @@
        sodipodi:nodetypes="cssscssscc" />
     <path
        style="fill:url(#linearGradient1063);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 692.5854,860.55319 -295.2537,-295.2537 -25.75904,56.34612 -47.5241,-54.09227 -25.63677,51.06385 -47.27062,-51.42568 9.51256,167.61314 291.87293,291.87305 z"
+       d="M 678.7447,868.6267 383.491,573.373 l -25.75904,56.34612 -47.5241,-54.09227 -25.63677,51.06385 -47.27062,-51.42568 9.51256,167.61314 291.87293,291.87314 z"
        id="path1047"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
-       clip-path="url(#clipPath1067)"
-       transform="translate(-6.7615351,5.6346126)" />
+       clip-path="url(#clipPath1075)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:237.54890442px;line-height:1.25;font-family:'TeX Gyre Heros Cn';-inkscape-font-specification:'TeX Gyre Heros Cn Bold Condensed';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.93872261"
-       x="212.32907"
+       x="202.72015"
        y="743.97784"
        id="text238"><tspan
          sodipodi:role="line"
          id="tspan236"
-         x="212.32907"
+         x="202.72015"
          y="743.97784"
          style="fill:#ffffff;stroke-width:5.93872261">W</tspan></text>
     <g

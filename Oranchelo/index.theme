@@ -1,8 +1,8 @@
 [Icon Theme]
 Name=Oranchelo
-Comment=An icon theme for xfce4, the set is inspired by "super flat remix" and the latest flat design trend.
+Comment=oranchelo-icons is a set of flat icons some with long shadow, designed by adolfo silerio (zayronxio). originally based on superflat-remix, however, each day are more icons.
 Directories=animations/22,panel/22,actions/scalable,actions/16,actions/symbolic,apps/scalable,apps/symbolic,categories/scalable,categories/small,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,emotes,mimetypes/scalable,mimetypes/symbolic,places/scalable,places/symbolic,status
-Inherits=gnome
+Inherits=gnome,breeze,breeze-dark,hicolor
 
 [actions/scalable]
 Context=Actions
@@ -24,9 +24,10 @@ Type=Scalable
 [apps/scalable]
 Size=512
 Context=Applications
-Type=Scalable
 MinSize=16
 MaxSize=512
+Type=Scalable
+
 
 [apps/symbolic]
 Context=Applications
