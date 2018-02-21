@@ -15,7 +15,7 @@
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    width="512"
    height="512"
-   sodipodi:docname="Slack.svg">
+   sodipodi:docname="smartgit.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -29,7 +29,7 @@
      inkscape:window-height="715"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.50000001"
+     inkscape:zoom="0.3535534"
      inkscape:cx="287.36075"
      inkscape:cy="166.82684"
      inkscape:window-x="0"
@@ -122,7 +122,7 @@
      cy="244.49997"
      cx="254.5"
      id="path3772"
-     style="fill:#e7c23a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.26570034" />
+     style="fill:#9d2973;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.26570034" />
   <path
      style="fill:url(#linearGradient931);stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
      d="M 359.40827,425.52491 171.7793,317.19727 136.7793,242 l 35,-81.19727 103.87225,59.97067 30.62775,-56.51754 77.56483,44.78207 -18.69179,-48.2352 180.10497,103.98365 -78.85822,213.98749 z"
@@ -135,7 +135,7 @@
      d="M 171.7793 160.80273 L 116.71094 239 L 171.7793 317.19727 L 192.2207 302.80273 L 147.28906 239 L 192.2207 175.19727 L 171.7793 160.80273 z M 365.15234 160.80273 L 344.71094 175.19727 L 389.64258 239 L 344.71094 302.80273 L 365.15234 317.19727 L 420.2207 239 L 365.15234 160.80273 z M 306.2793 164.25586 L 210.2793 299.25586 L 230.65234 313.74414 L 326.65234 178.74414 L 306.2793 164.25586 z "
      id="path892" />
   <path
-     style="fill:#de2d26;fill-opacity:1"
+     style="fill:#53676c;fill-opacity:1"
      d="M 282.8418 266.63477 L 302.4375 328.93555 A 114 114 0 0 0 282 394 A 114 114 0 0 0 396 508 A 114 114 0 0 0 510 394 A 114 114 0 0 0 396 280 A 114 114 0 0 0 351.82031 289.00586 L 282.8418 266.63477 z "
      id="path82" />
   <path
