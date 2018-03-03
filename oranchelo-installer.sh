@@ -28,7 +28,7 @@ continue() {
 }
 
 replace() {
-  show_question "\nFound an existing installation. Replace it? (Y)es, (N)o :\n" 
+  show_question "\nFound an existing installation. Replace it? (Y)es, (N)o :\n"
   read INPUT
   case $INPUT in
     [Yy]* ) rm -rf "$@/Oranchelo*" 2>/dev/null;;
@@ -57,15 +57,15 @@ install() {
   # Check destination directory
   if [ ! -d $DEST_DIR ]; then
     mkdir -p $DEST_DIR
-  elif [[ -d $DEST_DIR/Oranchelo && -d $DEST_DIR/Oranchelo-Green ]]; then
+  elif [ -d $DEST_DIR/Oranchelo ]; then
     replace $DEST_DIR
   fi
 
   echo -e "\nInstalling Oranchelo..."
-  
+
   # Copying files
   cp -rf Oranchelo* $DEST_DIR
-  chmod -R 755 $DEST_DIR/Oranchelo $DEST_DIR/Oranchelo-Green
+  chmod -R 755 $DEST_DIR/Oranchelo*
 
   echo "Installation complete!"
   echo "Do not forget you have to set icon theme."
@@ -76,7 +76,7 @@ remove() {
   # PREVIEW
 
   # Show installation directory
-  if [[ -d $DEST_DIR/Oranchelo && -d $DEST_DIR/Oranchelo-Green ]]; then
+  if [ -d $DEST_DIR/Oranchelo ]; then
     echo -e "\nOranchelo Icon Theme installed in:\n"
     show_dir "\t$DEST_DIR"
     if [ "$UID" -eq "$ROOT_UID" ]; then
@@ -86,7 +86,7 @@ remove() {
     fi
 
     continue
-  
+
   else
     show_error "\nOranchelo Icon Theme is not installed in:\n"
     show_dir "\t$DEST_DIR\n"
