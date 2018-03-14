@@ -15,7 +15,7 @@
    id="svg3903"
    version="1.1"
    inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
-   sodipodi:docname="audio-recorder.svg">
+   sodipodi:docname="gnome-sound-recorder.svg">
   <defs
      id="defs3905">
     <linearGradient
@@ -2141,9 +2141,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="222.87641"
-     inkscape:cy="267.1086"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-23.903857"
+     inkscape:cy="264.28017"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -2161,7 +2161,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2228,10 +2228,10 @@
     <g
        id="layer2"
        inkscape:label="circulo"
-       style="display:inline;opacity:0.98999999;fill:#720647;fill-opacity:1"
+       style="display:inline;opacity:0.98999999;fill:#a7165f;fill-opacity:1"
        transform="matrix(12.332308,0,0,12.332308,-47.545312,-534.58518)">
       <path
-         style="fill:#720647;fill-opacity:1;stroke:none;stroke-width:1.4909519"
+         style="fill:#a7165f;fill-opacity:1;stroke:none;stroke-width:1.4909519"
          d="M 44.322082,27.405077 A 19.729762,19.729765 0 0 1 24.59232,47.134842 19.729762,19.729765 0 0 1 4.8625579,27.405077 19.729762,19.729765 0 0 1 24.59232,7.6753138 19.729762,19.729765 0 0 1 44.322082,27.405077 Z"
          id="path3005"
          inkscape:connector-curvature="0" />
