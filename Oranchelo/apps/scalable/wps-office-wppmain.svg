@@ -15,7 +15,7 @@
    inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
    width="512"
    height="512"
-   sodipodi:docname="wps-pres.svg">
+   sodipodi:docname="wps-office-wppmain.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -30,8 +30,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.7071068"
-     inkscape:cx="284.13435"
-     inkscape:cy="278.53823"
+     inkscape:cx="25.333275"
+     inkscape:cy="275.7098"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -521,7 +521,7 @@
      cy="244.49997"
      cx="254.5"
      id="path3772"
-     style="fill:#8a5107;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.26570034" />
+     style="fill:#f38336;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.26570034" />
   <path
      style="fill:url(#linearGradient1503);stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
      d="M 387.25391 126.52344 L 178.64062 183.41797 L 121.74609 373.06641 L 297.93164 474.78516 A 234.49998 234.49998 0 0 0 489 244.5 A 234.49998 234.49998 0 0 0 479.86328 179.99219 L 387.25391 126.52344 z "

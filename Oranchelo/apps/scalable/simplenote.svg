@@ -15,9 +15,21 @@
    id="svg3903"
    version="1.1"
    inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
-   sodipodi:docname="gnome-dev-disc-cdr.svg">
+   sodipodi:docname="simplenote.svg">
   <defs
      id="defs3905">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1039">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1035" />
+      <stop
+         style="stop-color:#288cfa;stop-opacity:0"
+         offset="1"
+         id="stop1037" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3866">
       <stop
@@ -472,6 +484,16 @@
            style="fill:#fa6e31;fill-opacity:1;stroke:none;stroke-width:1.4909519" />
       </g>
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1039"
+       id="linearGradient1041"
+       x1="-390.64026"
+       y1="-501.08044"
+       x2="602.79279"
+       y2="39.53685"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,464)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -480,9 +502,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710681"
-     inkscape:cx="-32.638469"
-     inkscape:cy="188.56448"
+     inkscape:zoom="0.25000001"
+     inkscape:cx="265.30437"
+     inkscape:cy="130.44106"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -567,10 +589,10 @@
     <g
        id="layer2"
        inkscape:label="circulo"
-       style="display:inline;opacity:0.98999999;fill:#44bced;fill-opacity:1"
+       style="display:inline;opacity:0.98999999;fill:#fabc28;fill-opacity:1"
        transform="matrix(12.332308,0,0,12.332308,-47.545312,-534.58518)">
       <path
-         style="fill:#40a8a8;fill-opacity:1;stroke:none;stroke-width:1.4909519"
+         style="fill:#288cfa;fill-opacity:1;stroke:none;stroke-width:1.4909519"
          d="M 44.322082,27.405077 A 19.729762,19.729765 0 0 1 24.59232,47.134842 19.729762,19.729765 0 0 1 4.8625579,27.405077 19.729762,19.729765 0 0 1 24.59232,7.6753138 19.729762,19.729765 0 0 1 44.322082,27.405077 Z"
          id="path3005"
          inkscape:connector-curvature="0" />
@@ -614,27 +636,20 @@
        style="display:inline;opacity:0.98999999;fill:#fabc28;fill-opacity:1"
        inkscape:label="circulo"
        id="g992" />
-    <circle
-       style="fill:#ffffff;fill-opacity:0.48868778"
-       id="path932"
-       cx="255.73476"
-       cy="-196.61732"
-       r="88.388344" />
-    <circle
-       style="fill:#ffffff;fill-opacity:1"
-       id="path935"
-       cx="255.73476"
-       cy="-196.61732"
-       r="36.76955" />
     <path
-       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.28506789"
-       d="M 324.16016 34.046875 L 254.55859 267.3418 L 442.68359 111.98633 A 243.3135 243.31354 0 0 0 324.16016 34.046875 z M 254.55859 267.3418 L 67.755859 421.60547 A 243.3135 243.31354 0 0 0 185.10156 500.15234 L 254.55859 267.3418 z "
+       style="fill:url(#linearGradient1041);stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 329 84 L 130.47266 140.20898 L 85.25 308.52344 L 182 449 L 285.22266 508.5957 A 243.3135 243.31354 0 0 0 499.04883 267.38281 A 243.3135 243.31354 0 0 0 478.53711 170.33594 L 329 84 z "
        transform="translate(0,-464)"
-       id="path937" />
+       id="path1031" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:50;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 255.73438 70.894531 C 147.51319 70.894531 59.246094 159.16164 59.246094 267.38281 C 59.246094 375.60399 147.51319 463.87109 255.73438 463.87109 C 363.95555 463.87109 452.22266 375.60399 452.22266 267.38281 C 452.22266 159.16164 363.95555 70.894531 255.73438 70.894531 z M 278.87891 122.70312 C 348.98889 133.72627 402.22266 194.06432 402.22266 267.38281 C 402.22266 327.58228 366.33152 379.02728 314.68164 401.61523 C 318.74363 396.56302 322.28234 391.48475 325.29102 386.32422 C 336.23879 367.54638 339.30232 346.49222 334.5 328.55859 C 324.89535 292.69133 295.00694 272.72208 270.62891 253.10352 C 246.25087 233.48496 227.40092 214.85565 224.26367 201.72852 C 222.69505 195.16495 222.83595 188.89924 229.02539 177.58398 C 235.21483 166.26873 248.31397 150.81334 271.36523 132.3457 A 25.0025 25.0025 0 0 0 278.87891 122.70312 z M 200.04688 131.77148 C 194.10008 139.04606 189.1578 146.28154 185.16016 153.58984 C 174.28768 173.46642 171.19795 194.7929 175.63281 213.34961 C 184.50253 250.46303 214.59171 272.18739 239.28125 292.05664 C 263.97079 311.92589 283.279 330.57973 286.20117 341.49219 C 287.66226 346.94842 287.81997 351.32227 282.0957 361.14062 C 276.37144 370.959 263.63478 385.02239 240.87891 401.83398 A 25.0025 25.0025 0 0 0 232.59766 412.06445 C 162.48375 401.04462 109.24609 340.70408 109.24609 267.38281 C 109.24609 205.92468 146.65308 153.59038 200.04688 131.77148 z "
+       transform="translate(0,-464)"
+       id="path1020" />
     <g
        transform="matrix(12.332308,0,0,12.332308,-47.545312,-534.58518)"
-       style="display:inline;opacity:0.98999999;fill:#44bced;fill-opacity:1"
+       style="display:inline;opacity:0.98999999;fill:#fabc28;fill-opacity:1"
        inkscape:label="circulo"
-       id="g944" />
+       id="g1045" />
   </g>
 </svg>

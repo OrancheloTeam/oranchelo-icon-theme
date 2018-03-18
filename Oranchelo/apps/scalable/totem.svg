@@ -14,8 +14,8 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="org.gnome.Totem.svg">
+   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
+   sodipodi:docname="totem.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,16 +23,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="-84.563497"
-     inkscape:cy="118.10679"
+     inkscape:zoom="0.5"
+     inkscape:cx="144.28073"
+     inkscape:cy="135.23701"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1360"
-     inkscape:window-height="717"
+     inkscape:window-height="740"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <defs
      id="defs4">
@@ -131,7 +131,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Capa 1">
     <rect
-       style="color:#000000;fill:#18789a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.55799961;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#552200;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.55799961;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3787"
        width="309.53049"
        height="74.886391"
@@ -139,7 +139,7 @@
        y="867.90753"
        ry="0" />
     <rect
-       style="color:#000000;fill:#6f8a91;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.55799961;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ff7f2a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.55799961;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3015"
        width="446.3053"
        height="275.83185"
@@ -157,7 +157,7 @@
          height="77.781746"
          width="388.90872"
          id="rect3017"
-         style="color:#000000;fill:#434e59;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.55799961;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#535d6c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.55799961;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
          ry="8.485281"
          y="947.0033"
@@ -165,7 +165,7 @@
          height="16.970562"
          width="339.41125"
          id="rect3789"
-         style="color:#000000;fill:#16b3eb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.55799961;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.55799961;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <path
        style="fill:url(#linearGradient3823);fill-opacity:1;stroke:none"
