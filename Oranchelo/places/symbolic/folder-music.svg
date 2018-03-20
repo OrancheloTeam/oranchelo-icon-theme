@@ -15,8 +15,8 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="music.svg">
+   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
+   sodipodi:docname="folder-music.svg">
   <defs
      id="defs4">
     <clipPath
@@ -668,15 +668,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="23.27027"
-     inkscape:cx="11.591596"
+     inkscape:cx="3.6415378"
      inkscape:cy="9.9787814"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1360"
-     inkscape:window-height="717"
+     inkscape:window-height="740"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -738,14 +738,14 @@
     <g
        id="g6058"
        inkscape:label="apps"
-       style="display:inline;fill:#ce383d;fill-opacity:1"
+       style="display:inline;fill:#0c7fba;fill-opacity:1"
        transform="matrix(1.2253448,0,0,1.2253448,-668.51874,338.34461)">
       <path
          inkscape:connector-curvature="0"
          d="m 551.99959,570.0033 c -3.324,0 -6,2.676 -6,6 l 0,4 c 0,0 0,2 2,2 l 2,0 0,-5 -2,0 0,-1 c 0,-2.216 1.784,-4 4,-4 2.216,0 4,1.784 4,4 l 0,1 -2,0 0,5 2,0 c 0,0 2,0 2,-2 l 0,-1 0,-0.5 0,-2.5 c 0,-3.324 -2.676,-6 -6,-6 z"
          id="rect10440-3"
          sodipodi:nodetypes="sscscccsssccccsccss"
-         style="opacity:1;fill:#ce383d;fill-opacity:1;stroke:none;stroke-opacity:1" />
+         style="opacity:1;fill:#0c7fba;fill-opacity:1;stroke:none;stroke-opacity:1" />
     </g>
     <g
        id="layer12"
