@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12pt" height="12pt" version="1.1" viewBox="0 0 12 12">
+ <g>
+  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(82.745098%,85.490196%,89.019608%)" d="M 10 15 L 10 7 M 4 7 L 7 11 L 10 7 M 4 15 L 4 7" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
+  <path style="fill:none;stroke-width:2;stroke-linecap:round;stroke:rgb(82.745098%,85.490196%,89.019608%)" d="M 18 15 L 16 12 M 14 11 L 16 11 C 16.429688 11 16.734375 11 17 11 C 18 11 18 11 18 10 C 18 9.742188 18 9.398438 18 9 L 18 8 C 18 7 18 7 17 7 C 16.78125 7 16.460938 7.007812 16.125 7.007812 C 15 7 14 7 14 7 M 14 15 L 14 7" transform="matrix(0.5,0,0,0.5,0.5,0.5)"/>
+ </g>
+</svg>

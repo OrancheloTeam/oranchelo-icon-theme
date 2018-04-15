@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Oranchelo
 Comment=oranchelo-icons is a set of flat icons some with long shadow, designed by adolfo silerio (zayronxio). originally based on superflat-remix, however, each day are more icons.
-Directories=animations/22,panel/22,actions/scalable,actions/16,actions/symbolic,apps/scalable,apps/symbolic,categories/scalable,categories/small,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,emotes,mimetypes/scalable,mimetypes/symbolic,places/scalable,places/symbolic,status/22,status/scalable,status/16,status
+Directories=animations/22,panel/22,panel/16,actions/scalable,actions/16,actions/symbolic,apps/scalable,apps/symbolic,categories/scalable,categories/small,devices/scalable,devices/symbolic,emblems/scalable,emblems/symbolic,emotes,mimetypes/scalable,mimetypes/symbolic,places/scalable,places/symbolic,status/22,status/scalable,status/16,status
 Inherits=gnome,breeze,breeze-dark,hicolor
 
 [actions/scalable]
@@ -141,6 +141,13 @@ Context=panel
 Size=22
 MinSize=16
 MaxSize=512
+Type=Scalable
+
+[panel/16]
+Context=panel
+Size=16
+MinSize=8
+MaxSize=48
 Type=Scalable
 
 [animations/22]
