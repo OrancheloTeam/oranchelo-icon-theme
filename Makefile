@@ -1,4 +1,5 @@
-INSTALLDIR=$(DESTDIR)/usr/share/icons
+PREFIX?=/usr
+INSTALLDIR=$(DESTDIR)$(PREFIX)/share/icons
 THEMES_BASE_NAME=Oranchelo
 
 install:
