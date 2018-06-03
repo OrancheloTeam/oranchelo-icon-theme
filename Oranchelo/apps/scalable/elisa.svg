@@ -1,0 +1,3179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 511.99999 511.99999"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="elisa.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5244">
+      <stop
+         id="stop5246"
+         offset="0"
+         style="stop-color:#ffffee;stop-opacity:1;" />
+      <stop
+         id="stop5248"
+         offset="1"
+         style="stop-color:#ffffee;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5220">
+      <stop
+         id="stop5222"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:0.53472221;" />
+      <stop
+         id="stop5224"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4671"
+       id="linearGradient4677"
+       x1="137.57469"
+       y1="145.8884"
+       x2="386.47629"
+       y2="421.03781"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(3.76576e-6,5.4305801)" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4181-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4147-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4085-4"
+       effect="spiro" />
+    <linearGradient
+       id="linearGradient3963-8">
+      <stop
+         id="stop3965-4"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.42957747;" />
+      <stop
+         id="stop3967-4"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3960-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3938-5"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3889-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3855-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3829-8"
+       effect="spiro" />
+    <linearGradient
+       id="linearGradient3909-02">
+      <stop
+         id="stop3911-91"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.6241135;" />
+      <stop
+         id="stop3913-6"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="956.23987"
+       x2="155.98544"
+       y1="956.23987"
+       x1="46.709709"
+       id="linearGradient3915-5-5"
+       xlink:href="#linearGradient3909-02"
+       inkscape:collect="always" />
+    <filter
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-8"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-3" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-5" />
+    </filter>
+    <filter
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-1-7"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-4-7" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-9-9"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <linearGradient
+       gradientTransform="translate(31.452455,17.777475)"
+       gradientUnits="userSpaceOnUse"
+       y2="20.256975"
+       x2="111.84587"
+       y1="20.256975"
+       x1="27.075081"
+       id="linearGradient3969-0-3"
+       xlink:href="#linearGradient3963-8"
+       inkscape:collect="always" />
+    <filter
+       id="filter4080-1"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4082-4"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084-9"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <filter
+       id="filter4080"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4082"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3829"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3855"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3889"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3938"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3960"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4085"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4147"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4181"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4181-3-5"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4147-7-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4085-4-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3960-4-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3938-5-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3889-3-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3855-4-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3829-8-1"
+       effect="spiro" />
+    <filter
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-8-6"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-3-7" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-5-5" />
+    </filter>
+    <filter
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-1-7-4"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-4-7-3" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-9-9-7"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       id="filter4080-1-79"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4082-4-4"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084-9-0"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <filter
+       id="filter4080-17"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4082-39"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084-2"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3829-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3855-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3889-31"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3938-52"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3960-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4085-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4147-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4181-32"
+       is_visible="true" />
+    <filter
+       id="filter4080-1-2"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4082-4-5"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084-9-6"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <filter
+       id="filter4080-5"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4082-5"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084-0"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3829-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3855-43"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3889-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3938-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3960-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4085-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4147-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4181-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4181-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4147-78"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4085-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3960-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3938-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3889-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3855-46"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3829-89"
+       effect="spiro" />
+    <filter
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-53"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-42" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-05" />
+    </filter>
+    <filter
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-1-6"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-4-3" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-9-1"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4181-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4147-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4085-65"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3960-21"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3938-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3889-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3855-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3829-47"
+       effect="spiro" />
+    <filter
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-2"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-0" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-51" />
+    </filter>
+    <filter
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-1-9"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-4-0" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-9-8"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3909-02"
+       id="linearGradient10283"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1,1,0,-858.6356,859.68809)"
+       x1="46.709709"
+       y1="956.23987"
+       x2="155.98544"
+       y2="956.23987" />
+    <filter
+       id="filter4080-1-77"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4082-4-2"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084-9-63"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <filter
+       id="filter4080-7"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4082-55"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084-4"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3829-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3855-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3889-40"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3938-58"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3960-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4085-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4147-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4181-86"
+       is_visible="true" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3909-02"
+       id="linearGradient5164"
+       x1="-0.16508403"
+       y1="46.363636"
+       x2="63.801449"
+       y2="46.363636"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3914">
+      <stop
+         id="stop3916"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.14901961;" />
+      <stop
+         id="stop3918"
+         offset="1"
+         style="stop-color:#177ed5;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       y2="-211.97903"
+       x2="347.93805"
+       y1="-244.04208"
+       x1="315.875"
+       gradientTransform="translate(-307.99999,1255.6545)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3012"
+       xlink:href="#linearGradient3914"
+       inkscape:collect="always" />
+    <radialGradient
+       r="2"
+       fy="21.5"
+       fx="3"
+       cy="21.5"
+       cx="3"
+       gradientTransform="matrix(1,0,0,1.25,0,-5.375)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3084-0"
+       xlink:href="#linearGradient4082"
+       inkscape:collect="always" />
+    <radialGradient
+       r="2"
+       fy="21.5"
+       fx="3"
+       cy="21.5"
+       cx="3"
+       gradientTransform="matrix(1,0,0,1.25,0,-5.375)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3081"
+       xlink:href="#linearGradient4082"
+       inkscape:collect="always" />
+    <radialGradient
+       r="10"
+       fy="30"
+       fx="-14"
+       cy="30"
+       cx="-14"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3079"
+       xlink:href="#linearGradient3982"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3982">
+      <stop
+         id="stop3984"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:0.80000001;" />
+      <stop
+         id="stop3986"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.1;" />
+    </linearGradient>
+    <radialGradient
+       r="10"
+       fy="30"
+       fx="-14"
+       cy="30"
+       cx="-14"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3095"
+       xlink:href="#linearGradient3982"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4082">
+      <stop
+         id="stop4084"
+         offset="0"
+         style="stop-color:#4d4d4d;stop-opacity:1;" />
+      <stop
+         id="stop4086"
+         offset="1"
+         style="stop-color:#333333;stop-opacity:1;" />
+    </linearGradient>
+    <radialGradient
+       r="2"
+       fy="21.5"
+       fx="3"
+       cy="21.5"
+       cx="3"
+       gradientTransform="matrix(1,0,0,1.25,0,-5.375)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3084"
+       xlink:href="#linearGradient4082"
+       inkscape:collect="always" />
+    <inkscape:perspective
+       id="perspective3810"
+       inkscape:persp3d-origin="12 : 7.9999997 : 1"
+       inkscape:vp_z="23.999999 : 12 : 1"
+       inkscape:vp_y="0 : 999.99996 : 0"
+       inkscape:vp_x="0 : 12 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient4671">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.27152318;"
+         offset="0"
+         id="stop4673" />
+      <stop
+         style="stop-color:#fd702a;stop-opacity:0;"
+         offset="1"
+         id="stop4675" />
+    </linearGradient>
+    <clipPath
+       id="clipPath3718"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:60;marker:none;enable-background:accumulate"
+         d="m 114.16802,-3.0757622 c -2.54232,0 -4.58759,2.0452705 -4.58759,4.587589 l 0,56.9031682 c 0,2.54232 2.04527,4.592609 4.58759,4.592609 l 38.32192,0 0,-20.955344 c -4.95113,-1.785078 -8.49256,-6.51995 -8.49256,-12.086339 0,-5.566448 3.54135,-10.306325 8.49256,-12.091359 l 0,-20.9503242 -38.32192,0 z"
+         id="path3720" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4128">
+      <circle
+         transform="matrix(0.118891,0,0,0.118891,191.68187,-2.9744718)"
+         id="path4130"
+         style="fill:#656e7e;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         cx="-536.32001"
+         cy="239.36"
+         r="157.44" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4118">
+      <circle
+         transform="translate(-268.8,-17.92)"
+         id="path4120"
+         style="fill:#656e7e;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         cx="-536.32001"
+         cy="239.36"
+         r="157.44" />
+    </clipPath>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4181-3-50"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4147-7-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4085-4-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3960-4-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3938-5-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3889-3-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3855-4-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3829-8-4"
+       effect="spiro" />
+    <filter
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-8-4"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-3-70" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-5-6" />
+    </filter>
+    <filter
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-1-7-1"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-4-7-2" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-9-9-1"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       id="filter4080-1-1"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4082-4-8"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084-9-15"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <filter
+       id="filter4080-0"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4082-1"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084-1"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3829-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3855-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3889-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3938-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3960-94"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4085-78"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4147-91"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4181-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4181-3-5-5"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4147-7-1-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4085-4-0-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3960-4-3-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3938-5-7-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3889-3-1-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3855-4-1-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3829-8-1-4"
+       effect="spiro" />
+    <filter
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-8-6-4"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-3-7-4" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-5-5-0" />
+    </filter>
+    <filter
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-1-7-4-7"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-4-7-3-1" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-9-9-7-1"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       id="filter4080-1-79-4"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4082-4-4-9"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084-9-0-4"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <filter
+       id="filter4080-17-4"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4082-39-7"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084-2-2"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3829-9-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3855-7-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3889-31-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3938-52-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3960-2-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4085-0-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4147-0-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4181-32-9"
+       is_visible="true" />
+    <filter
+       id="filter4080-1-2-8"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4082-4-5-9"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084-9-6-0"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <filter
+       id="filter4080-5-5"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4082-5-7"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084-0-5"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3829-4-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3855-43-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3889-0-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3938-8-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3960-7-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4085-6-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4147-6-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4181-6-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4181-4-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4147-78-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4085-7-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3960-3-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3938-6-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3889-2-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3855-46-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3829-89-0"
+       effect="spiro" />
+    <filter
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-53-2"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-42-0" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-05-3" />
+    </filter>
+    <filter
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-1-6-8"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-4-3-2" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-9-1-4"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4181-8-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4147-9-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4085-65-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3960-21-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3938-0-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3889-4-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3855-6-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3829-47-2"
+       effect="spiro" />
+    <filter
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-2-5"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-0-8" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-51-1" />
+    </filter>
+    <filter
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-1-9-5"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-4-0-7" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-9-8-8"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       id="filter4080-1-77-9"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4082-4-2-8"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084-9-63-1"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <filter
+       id="filter4080-7-4"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4082-55-9"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084-4-4"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3829-5-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3855-0-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3889-40-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3938-58-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3960-9-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4085-5-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4147-5-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4181-86-8"
+       is_visible="true" />
+    <radialGradient
+       r="2"
+       fy="21.5"
+       fx="3"
+       cy="21.5"
+       cx="3"
+       gradientTransform="matrix(1,0,0,1.25,0,-5.375)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3084-0-9"
+       xlink:href="#linearGradient4082"
+       inkscape:collect="always" />
+    <radialGradient
+       r="2"
+       fy="21.5"
+       fx="3"
+       cy="21.5"
+       cx="3"
+       gradientTransform="matrix(1,0,0,1.25,0,-5.375)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3081-4"
+       xlink:href="#linearGradient4082"
+       inkscape:collect="always" />
+    <radialGradient
+       r="10"
+       fy="30"
+       fx="-14"
+       cy="30"
+       cx="-14"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3079-9"
+       xlink:href="#linearGradient3982"
+       inkscape:collect="always" />
+    <radialGradient
+       r="10"
+       fy="30"
+       fx="-14"
+       cy="30"
+       cx="-14"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3095-6"
+       xlink:href="#linearGradient3982"
+       inkscape:collect="always" />
+    <radialGradient
+       r="2"
+       fy="21.5"
+       fx="3"
+       cy="21.5"
+       cx="3"
+       gradientTransform="matrix(1,0,0,1.25,0,-5.375)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3084-7"
+       xlink:href="#linearGradient4082"
+       inkscape:collect="always" />
+    <inkscape:perspective
+       id="perspective3810-0"
+       inkscape:persp3d-origin="12 : 7.9999997 : 1"
+       inkscape:vp_z="23.999999 : 12 : 1"
+       inkscape:vp_y="0 : 999.99996 : 0"
+       inkscape:vp_x="0 : 12 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <clipPath
+       id="clipPath5201"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         style="fill:#474d58;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path5203"
+         transform="matrix(1.3902439,0,0,1.3902439,2394.1846,218.55774)"
+         cx="-536.32001"
+         cy="239.36"
+         r="157.44" />
+    </clipPath>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="598.80371"
+       x2="383.85797"
+       y1="324.04221"
+       x1="39.395958"
+       id="linearGradient5226"
+       xlink:href="#linearGradient5220"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath5238"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#6bddba;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:60;marker:none;enable-background:accumulate"
+         d="m 142.84375,240.9375 c -15.82857,0 -28.5625,12.73393 -28.5625,28.5625 l 0,354.28125 c 0,15.82858 12.73393,28.59375 28.5625,28.59375 l 238.59375,0 0,-130.46875 c -30.82594,-11.11396 -52.875,-40.59345 -52.875,-75.25 0,-34.65691 22.04855,-64.16756 52.875,-75.28125 l 0,-130.4375 -238.59375,0 z"
+         id="path5240" />
+    </clipPath>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="577.08545"
+       x2="575.78693"
+       y1="577.08545"
+       x1="319.20819"
+       id="linearGradient5250"
+       xlink:href="#linearGradient5220"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath5255"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#44cca2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:60;marker:none;enable-background:accumulate"
+         id="rect5257"
+         width="438.57141"
+         height="411.42859"
+         x="114.28571"
+         y="240.93362"
+         ry="28.571428" />
+    </clipPath>
+    <clipPath
+       id="clipPath5269"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#6bddba;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:60;marker:none;enable-background:accumulate"
+         d="m 66.072157,598.5315 c -15.82857,0 -28.5625,12.73393 -28.5625,28.5625 l 0,354.28125 c 0,15.82858 12.73393,28.59375 28.5625,28.59375 l 238.593753,0 0,-130.46875 c -30.82594,-11.11396 -52.875,-40.59345 -52.875,-75.25 0,-34.65691 22.04855,-64.16756 52.875,-75.28125 l 0,-130.4375 -238.593753,0 z"
+         id="path5271"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5239">
+      <circle
+         style="fill:#389ef3;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle5241"
+         cx="343.26691"
+         cy="781.66498"
+         r="42.142857" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5256">
+      <rect
+         rx="41.416256"
+         ry="43.571453"
+         y="733.79077"
+         x="105.71429"
+         height="87.142906"
+         width="315.71429"
+         id="rect5258"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5262">
+      <rect
+         rx="41.416256"
+         ry="43.571453"
+         y="733.79077"
+         x="105.71429"
+         height="87.142906"
+         width="315.71429"
+         id="rect5264"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4181-3-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4147-7-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4085-4-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3960-4-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3938-5-09"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3889-3-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3855-4-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3829-8-0"
+       is_visible="true" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3909-02"
+       id="linearGradient4763"
+       x1="46.709709"
+       y1="956.23987"
+       x2="155.98544"
+       y2="956.23987"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4080-8-61"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation">
+      <feGaussianBlur
+         id="feGaussianBlur4082-3-8"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         id="feComposite4084-5-7"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4080-1-7-9"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation">
+      <feGaussianBlur
+         id="feGaussianBlur4082-4-7-20"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084-9-9-2"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3963-8"
+       id="linearGradient4771"
+       x1="27.075081"
+       y1="20.256975"
+       x2="111.84587"
+       y2="20.256975"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(31.452455,17.777475)" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-1-3">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-4-75" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-9-92"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-28">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-9" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-7"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3829-36"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3855-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3889-29"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3938-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3960-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4085-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4147-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4181-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4181-3-5-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4147-7-1-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4085-4-0-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3960-4-3-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3938-5-7-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3889-3-1-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3855-4-1-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3829-8-1-0"
+       is_visible="true" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4080-8-6-6"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation">
+      <feGaussianBlur
+         id="feGaussianBlur4082-3-7-3"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         id="feComposite4084-5-5-2"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4080-1-7-4-0"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation">
+      <feGaussianBlur
+         id="feGaussianBlur4082-4-7-3-6"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084-9-9-7-15"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-1-79-5">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-4-4-4" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-9-0-7"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-17-6">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-39-5" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-2-6"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3829-9-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3855-7-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3889-31-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3938-52-45"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3960-2-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4085-0-5"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4147-0-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4181-32-7"
+       effect="spiro" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-1-2-4">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-4-5-4" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-9-6-3"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-5-0">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-5-78" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-0-6"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3829-4-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3855-43-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3889-0-43"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3938-8-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3960-7-49"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4085-6-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4147-6-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4181-6-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4181-4-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4147-78-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4085-7-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3960-3-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3938-6-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3889-2-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3855-46-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3829-89-5"
+       is_visible="true" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4080-53-0"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation">
+      <feGaussianBlur
+         id="feGaussianBlur4082-42-4"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         id="feComposite4084-05-8"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4080-1-6-7"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation">
+      <feGaussianBlur
+         id="feGaussianBlur4082-4-3-1"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084-9-1-7"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4181-8-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4147-9-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4085-65-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3960-21-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3938-0-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3889-4-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3855-6-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3829-47-6"
+       is_visible="true" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4080-2-1"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation">
+      <feGaussianBlur
+         id="feGaussianBlur4082-0-5"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         id="feComposite4084-51-9"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4080-1-9-4"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation">
+      <feGaussianBlur
+         id="feGaussianBlur4082-4-0-9"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084-9-8-0"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <linearGradient
+       y2="956.23987"
+       x2="155.98544"
+       y1="956.23987"
+       x1="46.709709"
+       gradientTransform="matrix(0,1,1,0,-858.6356,859.68809)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4857"
+       xlink:href="#linearGradient3909-02"
+       inkscape:collect="always" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-1-77-91">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-4-2-7" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-9-63-7"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-7-1">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-55-1" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-4-5"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3829-5-97"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3855-0-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3889-40-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3938-58-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3960-9-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4085-5-65"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4147-5-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4181-86-3"
+       effect="spiro" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="46.363636"
+       x2="63.801449"
+       y1="46.363636"
+       x1="-0.16508403"
+       id="linearGradient4873"
+       xlink:href="#linearGradient3909-02"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3914"
+       id="linearGradient4875"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-307.99999,1255.6545)"
+       x1="315.875"
+       y1="-244.04208"
+       x2="347.93805"
+       y2="-211.97903" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4082"
+       id="radialGradient3084-0-8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.25,0,-5.375)"
+       cx="3"
+       cy="21.5"
+       fx="3"
+       fy="21.5"
+       r="2" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4082"
+       id="radialGradient3081-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.25,0,-5.375)"
+       cx="3"
+       cy="21.5"
+       fx="3"
+       fy="21.5"
+       r="2" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3982"
+       id="radialGradient3079-2"
+       gradientUnits="userSpaceOnUse"
+       cx="-14"
+       cy="30"
+       fx="-14"
+       fy="30"
+       r="10" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3982"
+       id="radialGradient3095-9"
+       gradientUnits="userSpaceOnUse"
+       cx="-14"
+       cy="30"
+       fx="-14"
+       fy="30"
+       r="10" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4082"
+       id="radialGradient3084-8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.25,0,-5.375)"
+       cx="3"
+       cy="21.5"
+       fx="3"
+       fy="21.5"
+       r="2" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 12 : 1"
+       inkscape:vp_y="0 : 999.99996 : 0"
+       inkscape:vp_z="23.999999 : 12 : 1"
+       inkscape:persp3d-origin="12 : 7.9999997 : 1"
+       id="perspective3810-5" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3718-6">
+      <path
+         id="path3720-3"
+         d="m 114.16802,-3.0757622 c -2.54232,0 -4.58759,2.0452705 -4.58759,4.587589 l 0,56.9031682 c 0,2.54232 2.04527,4.592609 4.58759,4.592609 l 38.32192,0 0,-20.955344 c -4.95113,-1.785078 -8.49256,-6.51995 -8.49256,-12.086339 0,-5.566448 3.54135,-10.306325 8.49256,-12.091359 l 0,-20.9503242 -38.32192,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:60;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath4128-8"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         r="157.44"
+         cy="239.36"
+         cx="-536.32001"
+         style="fill:#656e7e;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path4130-5"
+         transform="matrix(0.118891,0,0,0.118891,191.68187,-2.9744718)" />
+    </clipPath>
+    <clipPath
+       id="clipPath4118-6"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         r="157.44"
+         cy="239.36"
+         cx="-536.32001"
+         style="fill:#656e7e;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path4120-1"
+         transform="translate(-268.8,-17.92)" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4181-3-50-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4147-7-3-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4085-4-6-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3960-4-8-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3938-5-0-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3889-3-9-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3855-4-3-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3829-8-4-0"
+       is_visible="true" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4080-8-4-3"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation">
+      <feGaussianBlur
+         id="feGaussianBlur4082-3-70-0"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         id="feComposite4084-5-6-4"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4080-1-7-1-4"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation">
+      <feGaussianBlur
+         id="feGaussianBlur4082-4-7-2-4"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084-9-9-1-4"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-1-1-7">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-4-8-6" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-9-15-3"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-0-1">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-1-7" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-1-5"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3829-3-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3855-9-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3889-8-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3938-7-1"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3960-94-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4085-78-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4147-91-5"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4181-2-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4181-3-5-5-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4147-7-1-6-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4085-4-0-1-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3960-4-3-2-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3938-5-7-7-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3889-3-1-8-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3855-4-1-8-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3829-8-1-4-3"
+       is_visible="true" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4080-8-6-4-8"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation">
+      <feGaussianBlur
+         id="feGaussianBlur4082-3-7-4-8"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         id="feComposite4084-5-5-0-3"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4080-1-7-4-7-1"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation">
+      <feGaussianBlur
+         id="feGaussianBlur4082-4-7-3-1-8"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084-9-9-7-1-9"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-1-79-4-6">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-4-4-9-4" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-9-0-4-3"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-17-4-3">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-39-7-3" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-2-2-8"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3829-9-8-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3855-7-8-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3889-31-3-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3938-52-4-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3960-2-8-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4085-0-3-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4147-0-7-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4181-32-9-7"
+       effect="spiro" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-1-2-8-7">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-4-5-9-6" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-9-6-0-4"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-5-5-3">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-5-7-0" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-0-5-3"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3829-4-2-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3855-43-0-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3889-0-4-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3938-8-9-5"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3960-7-4-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4085-6-1-0"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4147-6-7-5"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4181-6-7-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4181-4-4-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4147-78-6-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4085-7-1-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3960-3-0-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3938-6-1-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3889-2-7-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3855-46-8-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3829-89-0-7"
+       is_visible="true" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4080-53-2-5"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation">
+      <feGaussianBlur
+         id="feGaussianBlur4082-42-0-4"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         id="feComposite4084-05-3-8"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4080-1-6-8-1"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation">
+      <feGaussianBlur
+         id="feGaussianBlur4082-4-3-2-2"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084-9-1-4-8"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4181-8-8-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4147-9-1-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4085-65-7-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3960-21-8-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3938-0-3-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3889-4-2-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3855-6-8-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3829-47-2-0"
+       is_visible="true" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4080-2-5-5"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation">
+      <feGaussianBlur
+         id="feGaussianBlur4082-0-8-1"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         id="feComposite4084-51-1-1"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4080-1-9-5-0"
+       inkscape:label="Fancy blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation">
+      <feGaussianBlur
+         id="feGaussianBlur4082-4-0-7-8"
+         stdDeviation="5"
+         result="result1" />
+      <feComposite
+         k4="0"
+         k3="0"
+         k1="0"
+         id="feComposite4084-9-8-8-5"
+         in2="result1"
+         operator="arithmetic"
+         k2="2"
+         in="result1" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-1-77-9-0">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-4-2-8-6" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-9-63-1-4"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:menu-tooltip="Smooth colorized contour which allows desaturation and hue rotation"
+       inkscape:menu="Blurs"
+       inkscape:label="Fancy blur"
+       id="filter4080-7-4-6">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="5"
+         id="feGaussianBlur4082-55-9-2" />
+      <feComposite
+         in="result1"
+         k2="2"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite4084-4-4-5"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3829-5-9-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3855-0-8-6"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3889-40-1-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3938-58-0-8"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3960-9-9-4"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4085-5-6-7"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4147-5-8-2"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4181-86-8-4"
+       effect="spiro" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4082"
+       id="radialGradient3084-0-9-0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.25,0,-5.375)"
+       cx="3"
+       cy="21.5"
+       fx="3"
+       fy="21.5"
+       r="2" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4082"
+       id="radialGradient3081-4-6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.25,0,-5.375)"
+       cx="3"
+       cy="21.5"
+       fx="3"
+       fy="21.5"
+       r="2" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3982"
+       id="radialGradient3079-9-2"
+       gradientUnits="userSpaceOnUse"
+       cx="-14"
+       cy="30"
+       fx="-14"
+       fy="30"
+       r="10" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3982"
+       id="radialGradient3095-6-9"
+       gradientUnits="userSpaceOnUse"
+       cx="-14"
+       cy="30"
+       fx="-14"
+       fy="30"
+       r="10" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4082"
+       id="radialGradient3084-7-9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.25,0,-5.375)"
+       cx="3"
+       cy="21.5"
+       fx="3"
+       fy="21.5"
+       r="2" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 12 : 1"
+       inkscape:vp_y="0 : 999.99996 : 0"
+       inkscape:vp_z="23.999999 : 12 : 1"
+       inkscape:persp3d-origin="12 : 7.9999997 : 1"
+       id="perspective3810-0-0" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5201-8">
+      <circle
+         r="157.44"
+         cy="239.36"
+         cx="-536.32001"
+         transform="matrix(1.3902439,0,0,1.3902439,2394.1846,218.55774)"
+         id="path5203-1"
+         style="fill:#474d58;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5220"
+       id="linearGradient5009"
+       x1="39.395958"
+       y1="324.04221"
+       x2="383.85797"
+       y2="598.80371"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5238-3">
+      <path
+         id="path5240-1"
+         d="m 142.84375,240.9375 c -15.82857,0 -28.5625,12.73393 -28.5625,28.5625 l 0,354.28125 c 0,15.82858 12.73393,28.59375 28.5625,28.59375 l 238.59375,0 0,-130.46875 c -30.82594,-11.11396 -52.875,-40.59345 -52.875,-75.25 0,-34.65691 22.04855,-64.16756 52.875,-75.28125 l 0,-130.4375 -238.59375,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#6bddba;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:60;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5220"
+       id="linearGradient5013"
+       x1="319.20819"
+       y1="577.08545"
+       x2="575.78693"
+       y2="577.08545"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5255-1">
+      <rect
+         ry="28.571428"
+         y="240.93362"
+         x="114.28571"
+         height="411.42859"
+         width="438.57141"
+         id="rect5257-0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#44cca2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:60;marker:none;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5269-3">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5271-4"
+         d="m 66.072157,598.5315 c -15.82857,0 -28.5625,12.73393 -28.5625,28.5625 l 0,354.28125 c 0,15.82858 12.73393,28.59375 28.5625,28.59375 l 238.593753,0 0,-130.46875 c -30.82594,-11.11396 -52.875,-40.59345 -52.875,-75.25 0,-34.65691 22.04855,-64.16756 52.875,-75.28125 l 0,-130.4375 -238.593753,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#6bddba;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:60;marker:none;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       id="clipPath5239-0"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         r="42.142857"
+         cy="781.66498"
+         cx="343.26691"
+         id="circle5241-3"
+         style="fill:#389ef3;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    </clipPath>
+    <clipPath
+       id="clipPath5256-9"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect5258-1"
+         width="315.71429"
+         height="87.142906"
+         x="105.71429"
+         y="733.79077"
+         ry="43.571453"
+         rx="41.416256" />
+    </clipPath>
+    <clipPath
+       id="clipPath5262-9"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect5264-6"
+         width="315.71429"
+         height="87.142906"
+         x="105.71429"
+         y="733.79077"
+         ry="43.571453"
+         rx="41.416256" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4314">
+      <circle
+         style="opacity:1;fill:#433e6e;fill-opacity:1;stroke:none;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle4316"
+         cx="254.15642"
+         cy="800.82593"
+         r="233.19504" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-125.68898"
+     inkscape:cy="144.18113"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1360"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-540.36219)">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#69959a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:60;marker:none;enable-background:accumulate"
+       id="rect2985"
+       width="473.44934"
+       height="362.94061"
+       x="20.463549"
+       y="623.40845"
+       ry="29.132605" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#49686c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 112.23119,912.00234 c -1.83618,-10e-5 -3.52472,0.88619 -4.39844,2.30867 l -40.406247,65.84212 c -1.799304,2.93413 0.612377,6.49683 4.398437,6.49769 l 370.72656,0 c 3.78606,-8.6e-4 6.19774,-3.56356 4.39844,-6.49769 l -40.40625,-65.84212 c -0.87372,-1.42248 -2.56226,-2.30877 -4.39844,-2.30867 z"
+       id="path5208"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <rect
+       style="fill:#d6d1ae;fill-opacity:1"
+       id="rect4445"
+       width="355"
+       height="134.28572"
+       x="92.14286"
+       y="708.79077"
+       ry="29.132601" />
+    <path
+       style="fill:#cc6c92;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 81.171469,655.21961 -41.416015,43.57031 0,157.14454 c 0,24.13861 18.471384,43.57031 41.416015,43.57031 l 351.453121,0 c 22.94464,0 41.41602,-19.4317 41.41602,-43.57031 l 0,-157.14454 -41.41602,-43.57031 z m 70.000001,78.57031 232.88086,0 c 22.9446,0 41.41601,19.43368 41.41601,43.57227 0,24.13859 -18.47141,43.57227 -41.41601,43.57227 l -232.88086,0 c -22.94461,0 -41.41602,-19.43368 -41.41602,-43.57227 0,-24.13859 18.47141,-43.57227 41.41602,-43.57227 z"
+       id="rect5266"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsssscccsssssss" />
+    <rect
+       style="fill:#4d4d4d;fill-opacity:0.43979055;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect5245"
+       width="315.71429"
+       height="87.142906"
+       x="109.7549"
+       y="733.79077"
+       ry="43.571453"
+       rx="41.416256" />
+    <circle
+       style="fill:#383846;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path5249"
+       cx="374.64285"
+       cy="777.005"
+       r="95.35714"
+       clip-path="url(#clipPath5256)"
+       transform="translate(4.0406102,0)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5227"
+       d="m 343.26737,730.58657 a 51.078324,51.078324 0 0 0 -51.07889,51.07794 51.078324,51.078324 0 0 0 51.07889,51.07889 51.078324,51.078324 0 0 0 51.07795,-51.07889 51.078324,51.078324 0 0 0 -51.07795,-51.07794 z m -5.3311,21.05787 0,3.3655 c 0,2.06049 1.65882,3.71931 3.71931,3.71931 l 3.22359,0 c 2.06049,0 3.71931,-1.65882 3.71931,-3.71931 l 0,-3.34536 a 30.498221,30.498221 0 0 1 12.12251,5.00702 l -2.37599,2.37598 c -1.45697,1.45699 -1.45698,3.80317 0,5.26016 l 2.28011,2.27914 c 1.45698,1.45698 3.8022,1.45698 5.25919,0 l 2.35969,-2.35969 a 30.498221,30.498221 0 0 1 5.04345,12.10621 l -3.3655,0 c -2.06049,0 -3.7193,1.65883 -3.7193,3.71932 l 0,3.2236 c 0,2.06049 1.65881,3.7193 3.7193,3.7193 l 3.34537,0 a 30.498221,30.498221 0 0 1 -5.00702,12.12347 l -2.37599,-2.37599 c -0.7285,-0.7285 -1.67839,-1.09307 -2.62912,-1.09307 -0.95072,0 -1.90158,0.36457 -2.63007,1.09307 l -2.28011,2.27915 c -1.45698,1.45698 -1.45697,3.80316 0,5.26016 l 2.35969,2.35967 a 30.498221,30.498221 0 0 1 -12.10621,5.04347 l 0,-3.36646 c 0,-2.0605 -1.65882,-3.71933 -3.71931,-3.71933 l -3.22359,0 c -2.06049,0 -3.71931,1.65883 -3.71931,3.71933 l 0,3.34632 a 30.498221,30.498221 0 0 1 -12.12348,-5.00607 l 2.37696,-2.37693 c 1.45697,-1.457 1.45698,-3.80318 0,-5.26016 l -2.2801,-2.27915 c -0.7285,-0.7285 -1.67936,-1.09307 -2.63009,-1.09307 -0.95073,0 -1.90062,0.36457 -2.62912,1.09307 l -2.35968,2.35969 a 30.498221,30.498221 0 0 1 -5.04538,-12.10717 l 3.36742,0 c 2.06049,0 3.71931,-1.65882 3.71931,-3.71931 l 0,-3.22359 c 0,-2.06049 -1.65882,-3.71932 -3.71931,-3.71932 l -3.34633,0 a 30.498221,30.498221 0 0 1 5.00703,-12.12347 l 2.37694,2.37695 c 1.45699,1.45698 3.80221,1.45699 5.25921,0 l 2.2801,-2.27914 c 1.45698,-1.45699 1.45697,-3.80318 0,-5.26016 l -2.36065,-2.36064 a 30.498221,30.498221 0 0 1 12.10717,-5.0425 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       clip-path="url(#clipPath5239)"
+       transform="translate(36.897757,-4.2857157)" />
+    <circle
+       r="95.35714"
+       cy="774.14783"
+       cx="153.21428"
+       id="circle5251"
+       style="fill:#383846;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       clip-path="url(#clipPath5262)"
+       transform="translate(4.0406102,0)" />
+    <path
+       transform="translate(-187.35611,-4.2857157)"
+       clip-path="url(#clipPath5239)"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 343.26737,730.58657 a 51.078324,51.078324 0 0 0 -51.07889,51.07794 51.078324,51.078324 0 0 0 51.07889,51.07889 51.078324,51.078324 0 0 0 51.07795,-51.07889 51.078324,51.078324 0 0 0 -51.07795,-51.07794 z m -5.3311,21.05787 0,3.3655 c 0,2.06049 1.65882,3.71931 3.71931,3.71931 l 3.22359,0 c 2.06049,0 3.71931,-1.65882 3.71931,-3.71931 l 0,-3.34536 a 30.498221,30.498221 0 0 1 12.12251,5.00702 l -2.37599,2.37598 c -1.45697,1.45699 -1.45698,3.80317 0,5.26016 l 2.28011,2.27914 c 1.45698,1.45698 3.8022,1.45698 5.25919,0 l 2.35969,-2.35969 a 30.498221,30.498221 0 0 1 5.04345,12.10621 l -3.3655,0 c -2.06049,0 -3.7193,1.65883 -3.7193,3.71932 l 0,3.2236 c 0,2.06049 1.65881,3.7193 3.7193,3.7193 l 3.34537,0 a 30.498221,30.498221 0 0 1 -5.00702,12.12347 l -2.37599,-2.37599 c -0.7285,-0.7285 -1.67839,-1.09307 -2.62912,-1.09307 -0.95072,0 -1.90158,0.36457 -2.63007,1.09307 l -2.28011,2.27915 c -1.45698,1.45698 -1.45697,3.80316 0,5.26016 l 2.35969,2.35967 a 30.498221,30.498221 0 0 1 -12.10621,5.04347 l 0,-3.36646 c 0,-2.0605 -1.65882,-3.71933 -3.71931,-3.71933 l -3.22359,0 c -2.06049,0 -3.71931,1.65883 -3.71931,3.71933 l 0,3.34632 a 30.498221,30.498221 0 0 1 -12.12348,-5.00607 l 2.37696,-2.37693 c 1.45697,-1.457 1.45698,-3.80318 0,-5.26016 l -2.2801,-2.27915 c -0.7285,-0.7285 -1.67936,-1.09307 -2.63009,-1.09307 -0.95073,0 -1.90062,0.36457 -2.62912,1.09307 l -2.35968,2.35969 a 30.498221,30.498221 0 0 1 -5.04538,-12.10717 l 3.36742,0 c 2.06049,0 3.71931,-1.65882 3.71931,-3.71931 l 0,-3.22359 c 0,-2.06049 -1.65882,-3.71932 -3.71931,-3.71932 l -3.34633,0 a 30.498221,30.498221 0 0 1 5.00703,-12.12347 l 2.37694,2.37695 c 1.45699,1.45698 3.80221,1.45699 5.25921,0 l 2.2801,-2.27914 c 1.45698,-1.45699 1.45697,-3.80318 0,-5.26016 l -2.36065,-2.36064 a 30.498221,30.498221 0 0 1 12.10717,-5.0425 z"
+       id="path5247"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="fill:#2c2c2c;fill-opacity:0.51832461"
+       id="path4429"
+       cx="42.142857"
+       cy="647.36218"
+       r="12.142857" />
+    <circle
+       r="12.142857"
+       cy="647.36218"
+       cx="469.28571"
+       id="circle4431"
+       style="fill:#2c2c2c;fill-opacity:0.51832461" />
+    <circle
+       style="fill:#2c2c2c;fill-opacity:0.51832461"
+       id="circle4433"
+       cx="469.28571"
+       cy="963.07648"
+       r="12.142857" />
+    <circle
+       r="12.142857"
+       cy="963.07648"
+       cx="43.571423"
+       id="circle4435"
+       style="fill:#2c2c2c;fill-opacity:0.51832461" />
+    <circle
+       r="12.142857"
+       cy="954.50507"
+       cx="335"
+       id="circle4437"
+       style="fill:#253033;fill-opacity:0.89528793" />
+    <ellipse
+       style="fill:#253033;fill-opacity:0.89528793"
+       id="circle4439"
+       cx="392.14285"
+       cy="968.79077"
+       rx="9.2857141"
+       ry="10.714285" />
+    <circle
+       style="fill:#253033;fill-opacity:0.89528793"
+       id="circle4441"
+       cx="-170.71428"
+       cy="954.50507"
+       r="12.142857"
+       transform="scale(-1,1)" />
+    <ellipse
+       ry="10.714285"
+       rx="9.2857141"
+       cy="968.79077"
+       cx="-113.57143"
+       id="ellipse4443"
+       style="fill:#253033;fill-opacity:0.89528793"
+       transform="scale(-1,1)" />
+  </g>
+</svg>
