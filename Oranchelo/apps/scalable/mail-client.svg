@@ -4786,16 +4786,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="229.05639"
+     inkscape:cx="-364.91331"
      inkscape:cy="322.96362"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1360"
-     inkscape:window-height="718"
+     inkscape:window-height="732"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true">
     <inkscape:grid
@@ -4812,7 +4812,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4878,13 +4878,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.5px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob Bold';letter-spacing:0px;word-spacing:0px;fill:#929292;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="45.413246"
-       y="225.58936"
+       x="40.311916"
+       y="236.28014"
        id="text2217"><tspan
          sodipodi:role="line"
          id="tspan2215"
-         x="45.413246"
-         y="225.58936"
+         x="40.311916"
+         y="236.28014"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:63.5px;font-family:Uroob;-inkscape-font-specification:'Uroob Bold';fill:#929292;fill-opacity:1;stroke-width:0.26458332">@</tspan></text>
     <path
        style="fill:#1a1a1a;fill-opacity:0.15068497;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

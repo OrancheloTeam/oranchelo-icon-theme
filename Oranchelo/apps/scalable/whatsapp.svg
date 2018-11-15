@@ -14,7 +14,7 @@
    height="512"
    id="svg3903"
    version="1.1"
-   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="whatsapp.svg">
   <defs
      id="defs3905">
@@ -210,14 +210,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.87500003"
-     inkscape:cx="-208.21544"
+     inkscape:cx="-228.21544"
      inkscape:cy="215.45959"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1360"
-     inkscape:window-height="740"
+     inkscape:window-height="732"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -261,7 +261,7 @@
        id="g64"
        transform="matrix(10.207184,0,0,10.207184,17.104815,-452.96617)">
       <path
-         style="fill:#2cae4a;fill-opacity:1;stroke:none;stroke-width:1.71512377"
+         style="fill:#36be77;fill-opacity:1;stroke:none;stroke-width:1.71512377"
          d="M 23.804688,1.3046875 A 22.696228,22.696232 0 0 0 1.1074219,24 22.696228,22.696232 0 0 0 3.3632812,33.818359 L 1.5,45 12.041016,43.378906 A 22.696228,22.696232 0 0 0 23.804688,46.695312 22.696228,22.696232 0 0 0 46.5,24 22.696228,22.696232 0 0 0 23.804688,1.3046875 Z"
          id="path3005"
          inkscape:connector-curvature="0" />
