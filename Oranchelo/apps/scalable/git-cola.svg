@@ -14,7 +14,7 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="git-cola.svg">
   <sodipodi:namedview
      id="base"
@@ -24,15 +24,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="316.09717"
-     inkscape:cy="129.18739"
+     inkscape:cx="43.861059"
+     inkscape:cy="126.35896"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1360"
-     inkscape:window-height="718"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="29"
      inkscape:window-maximized="1" />
   <defs
      id="defs4">
@@ -135,17 +135,8 @@
        y1="581.45496"
        x2="414.50244"
        y2="985.45496"
-       gradientUnits="userSpaceOnUse" />
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath994">
-      <circle
-         id="circle996"
-         style="fill:#df6e54;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.88586956"
-         cx="261.62952"
-         cy="799.21796"
-         r="230.51682" />
-    </clipPath>
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-540.36218)" />
   </defs>
   <metadata
      id="metadata7">
@@ -155,7 +146,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -176,11 +167,10 @@
        id="path121" />
     <path
        style="fill:url(#linearGradient990);stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0.885"
-       d="m 355.5585,1062.8037 -216.61204,-216.61206 9.58903,-67.00471 40.41097,-5.99529 19.36204,19.36204 5.91238,-17.45084 20.72558,-10.9112 42.16839,42.16839 8.26658,-42.25379 53.05605,53.05605 1.97547,-53.05605 26.47744,0 216.61204,216.61206"
-       id="path966"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc"
-       clip-path="url(#clipPath994)" />
+       clip-path="none"
+       d="M 285.38086 223.74414 L 277.11523 265.99805 L 234.94727 223.83008 L 214.2207 234.74023 L 208.30859 252.19141 L 188.94727 232.83008 L 148.53516 238.82422 L 138.94727 305.83008 L 315.77734 482.66016 A 230.51682 230.51682 0 0 0 478.71484 335.56836 L 366.89062 223.74414 L 340.41211 223.74414 L 338.4375 276.80078 L 285.38086 223.74414 z "
+       transform="translate(0,540.36218)"
+       id="path966" />
     <g
        aria-label="COLA"
        transform="matrix(3.2447834,0,0,3.2447834,-144.22611,-105.2407)"
