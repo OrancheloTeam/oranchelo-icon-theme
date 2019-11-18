@@ -18,7 +18,7 @@
    id="svg7384"
    style="enable-background:new"
    version="1.1"
-   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
+   inkscape:version="0.92.1 r15371"
    width="16.003008">
   <sodipodi:namedview
      inkscape:bbox-nodes="true"
@@ -27,7 +27,7 @@
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="g6058"
-     inkscape:cx="-3.5251065"
+     inkscape:cx="-21.379552"
      inkscape:cy="6.9177833"
      gridtolerance="10"
      inkscape:guide-bbox="true"
@@ -57,9 +57,9 @@
      inkscape:snap-page="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="740"
+     inkscape:window-height="1040"
      inkscape:window-maximized="1"
-     inkscape:window-width="1360"
+     inkscape:window-width="1920"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:zoom="11.313709">
@@ -178,6 +178,14 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ssssssccs" />
     </clipPath>
+    <clipPath
+       id="clipPath4529"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4527"
+         d="M 0,6 H 130 V 266 H 0 Z" />
+    </clipPath>
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -227,16 +235,31 @@
      inkscape:label="apps"
      style="display:inline"
      transform="translate(-504,-566)">
-    <path
-       style="opacity:1;fill:#0c7fba;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 3.6425781 0.70703125 C 2.9411281 0.70703125 2.3769531 1.2402238 2.3769531 1.9023438 L 2.3769531 14.351562 C 2.3769531 15.013693 2.9411281 15.546875 3.6425781 15.546875 L 12.677734 15.546875 C 13.379194 15.546875 13.945312 15.013692 13.945312 14.351562 L 13.945312 5.3457031 L 13.90625 5.3046875 C 13.898626 5.3046889 11.619958 5.3046875 10.402344 5.3046875 C 9.7782137 5.3046875 9.5039062 5.0921781 9.5039062 4.5488281 C 9.5039062 3.3247873 9.5077963 0.71764413 9.5078125 0.70703125 L 3.6425781 0.70703125 z "
-       transform="translate(504,566)"
-       id="rect4159" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:#0c7fba;fill-opacity:0.41176471;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 513.50872,566.69854 4.40361,4.60587 c 0,0 -2.29009,4.2e-4 -3.50974,4.2e-4 -0.62413,0 -0.89809,-0.2122 -0.89809,-0.75555 0,-1.22653 0.004,-3.85068 0.004,-3.85068 z"
-       id="path4215" />
+    <g
+       transform="matrix(0.39364015,0.39364015,0.39364015,-0.39364015,503.81186,576.97196)"
+       inkscape:label="ink_ext_XXXXXX"
+       id="g4519"
+       style="fill:#398492;fill-opacity:1">
+      <g
+         transform="scale(0.1)"
+         id="g4521"
+         style="fill:#398492;fill-opacity:1">
+        <g
+           id="g4523"
+           style="fill:#398492;fill-opacity:1">
+          <g
+             clip-path="url(#clipPath4529)"
+             id="g4525"
+             style="fill:#398492;fill-opacity:1">
+            <path
+               inkscape:connector-curvature="0"
+               id="path4531"
+               style="fill:#398492;fill-opacity:1;fill-rule:evenodd;stroke:none"
+               d="M 111.988,234.012 V 74.0117 C 111.988,47.4805 90.5117,26 63.9805,26 37.5,26 16.0195,47.4805 16.0195,74.0117 V 217.988 c 0,17.703 14.2891,31.992 31.9922,31.992 C 65.6602,249.98 80,235.691 80,217.988 V 74.0117 c 0,-8.8711 -7.1914,-16.0234 -16.0195,-16.0234 -8.8203,0 -15.9688,7.1523 -15.9688,16.0234 V 202.02 H 31.9883 V 74.0117 c 0,-17.7031 14.3398,-31.9922 31.9922,-31.9922 17.6992,0 32.039,14.2891 32.039,31.9922 V 217.988 C 96.0195,244.52 74.5313,266 48.0117,266 21.4805,266 0,244.52 0,217.988 V 66 C 3.94922,34.4414 31.3711,9.98047 63.9805,9.98047 96.6406,9.98047 124.059,34.4414 128.012,66 v 168.012 z" />
+          </g>
+        </g>
+      </g>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"

@@ -10,7 +10,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="user-home-symbolic.svg"
+   sodipodi:docname="user-home.svg"
    inkscape:export-filename="/home/sam/source-symbolic.png"
    inkscape:export-xdpi="270"
    inkscape:export-ydpi="270"
@@ -18,7 +18,7 @@
    id="svg7384"
    style="enable-background:new"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.1 r15371"
    width="16">
   <sodipodi:namedview
      inkscape:bbox-nodes="true"
@@ -27,7 +27,7 @@
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="layer1"
-     inkscape:cx="14.025686"
+     inkscape:cx="-11.224314"
      inkscape:cy="4.9897163"
      gridtolerance="10"
      inkscape:guide-bbox="true"
@@ -57,11 +57,11 @@
      inkscape:snap-page="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="721"
+     inkscape:window-height="1040"
      inkscape:window-maximized="1"
-     inkscape:window-width="1360"
+     inkscape:window-width="1920"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:zoom="8">
     <inkscape:grid
        color="#000000"
@@ -72,11 +72,11 @@
        enabled="true"
        id="grid4866"
        opacity="0.16470588"
-       originx="-465px"
-       originy="-647px"
+       originx="-465"
+       originy="-647"
        snapvisiblegridlinesonly="true"
-       spacingx="0.25px"
-       spacingy="0.25px"
+       spacingx="0.25"
+       spacingy="0.25"
        type="xygrid"
        visible="true" />
   </sodipodi:namedview>
@@ -138,7 +138,7 @@
        d="m 466.4998,195.00336 1.5,0 0,6 4,0 0,-4 3,0 0,4 4,0 0,-6 1.5,0 -7,-7 z"
        id="path16259-2-3"
        sodipodi:nodetypes="cccccccccccc"
-       style="fill:#2a3b3f;fill-opacity:1;stroke:none" />
+       style="fill:#398492;fill-opacity:1;stroke:none" />
   </g>
   <g
      inkscape:groupmode="layer"

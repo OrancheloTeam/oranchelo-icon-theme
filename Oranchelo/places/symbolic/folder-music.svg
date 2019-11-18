@@ -15,7 +15,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="folder-music.svg">
   <defs
      id="defs4">
@@ -668,13 +668,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="23.27027"
-     inkscape:cx="3.6415378"
+     inkscape:cx="-5.0390662"
      inkscape:cy="9.9787814"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1360"
-     inkscape:window-height="740"
+     inkscape:window-width="1920"
+     inkscape:window-height="1040"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -736,21 +736,14 @@
        style="display:inline"
        transform="translate(-296.39411,273.68476)" />
     <g
-       id="g6058"
-       inkscape:label="apps"
-       style="display:inline;fill:#0c7fba;fill-opacity:1"
-       transform="matrix(1.2253448,0,0,1.2253448,-668.51874,338.34461)">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 551.99959,570.0033 c -3.324,0 -6,2.676 -6,6 l 0,4 c 0,0 0,2 2,2 l 2,0 0,-5 -2,0 0,-1 c 0,-2.216 1.784,-4 4,-4 2.216,0 4,1.784 4,4 l 0,1 -2,0 0,5 2,0 c 0,0 2,0 2,-2 l 0,-1 0,-0.5 0,-2.5 c 0,-3.324 -2.676,-6 -6,-6 z"
-         id="rect10440-3"
-         sodipodi:nodetypes="sscscccsssccccsccss"
-         style="opacity:1;fill:#0c7fba;fill-opacity:1;stroke:none;stroke-opacity:1" />
-    </g>
-    <g
        id="layer12"
        inkscape:label="actions"
        style="display:inline"
        transform="translate(-537.39431,740.68476)" />
+    <path
+       style="opacity:1;fill:#398492;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 13.752076,1037.3212 -6.1093753,1.9258 v 5.9843 a 3.5452962,3.5452962 0 0 0 -1.5195313,-0.3457 3.5452962,3.5452962 0 0 0 -3.5449218,3.545 3.5452962,3.5452962 0 0 0 3.5449218,3.5449 3.5452962,3.5452962 0 0 0 3.5351563,-3.3516 h 0.00977 v -0.1933 -6.7696 l 4.0839843,-1.375 z"
+       id="path4619"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
